@@ -1,0 +1,128 @@
+body {
+	margin: 0;
+	background: black;
+	color: white;
+}
+
+header {
+	height: 64px;
+}
+
+header>p {
+	background: black;
+	margin: 0;
+	padding: 8px;
+	text-align: center;
+	font-size: 54px;
+}
+
+#cardArea {
+	height: calc(100vh - 64px - 64px - 0px);
+}
+
+#front {
+	position: relative;
+	height: 50%;
+	text-align: center;
+	font-size: 48px;
+	border-bottom: 1px solid white;
+}
+
+#back {
+	position: relative;
+	height: 50%;
+	text-align: center;
+	font-size: 32px;
+}
+
+p.cardText {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p.cardScore {
+    margin: 0;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+#buttonArea {
+	height: 64px;
+	display: flex;
+	flex-direction: row;
+}
+
+div.button.half {
+	width: 50%;
+}
+div.button.full {
+	width: 100%;
+}
+
+div.button{
+	display: inline-block;
+	padding: 0px 0px;
+	border: 0.1em solid #FFFFFF;
+	margin: 4px 12px;
+	border-radius: 0.12em;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-weight: 300;
+	color: #FFFFFF;
+	text-align: center;
+	transition: all 0.2s;
+	font-size: 16px;
+}
+div.button:hover{
+	color:#000000;
+	background-color:#FFFFFF;
+}
+
+@media only screen and (max-device-width: 768px) {
+
+	header {
+		height: 128px;
+	}
+
+	header>p {
+		padding: 16px;
+		font-size: 72px;
+	}
+
+	#cardArea {
+		/*height: calc(100vh - 128px - 32px - 300px);*/
+		height: calc(100vh - 128px - 200px);
+	}
+
+	#front {
+		font-size: 84px;
+	}
+
+	#back {
+		font-size: 64px;
+	}
+
+	#buttonArea {
+		height: 160px;
+		display: flex;
+		flex-direction: row;
+	}
+
+	div.button {
+		font-size: 48px;
+	}
+
+}
+
+.hidden {
+	display: none !important;
+}
+
+footer {
+	height: 0px;
+	background: red;
+}

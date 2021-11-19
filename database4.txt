@@ -1,0 +1,878 @@
+1542213214601	αἰδώς, ους, ἡ	awe; sense of shame; respect for others	4	
+1542213214602	αἰσθάνομαι	to perceive; sense, understand	4	
+1542213214605	αἰτιάομαι	to accuse, censure; allege as a cause	4	
+1542213214606	αἱρέω	to take, grasp, seize; choose, elect	4	
+1542213214607	αἴτιος, α, ον	responsible; responsible for, cause of	3	
+1542213214614	βάρος, ους, τό	width	5	
+1542213214618	βαρύς, εῖα, ύ	heavy	4	
+1542213214621	βοηθέω	to come to the aid of; come to the rescue	5	
+1542213214622	βουλεύω	to plan, devise; take counsel, deliberate	4	
+1542213214625	βραχύς, εῖα, ύ	short, small	4	
+1542213214627	γέρας, ως, τό	gift of honor, privilege	4	
+1542213214641	γῆρας, αος, τό	old age	4	
+1542213214645	δή	in fact, of course, certainly	5	
+1542213214646	δήπου	surely, doubtless, I presume	3	
+1542213214647	δαπανάω	to spend; consume, use up	3	
+1542213214648	δειλός, ή, όν	cowardly; miserable, wretched	4	
+1542213214655	διαβαίνω	to step across; go over, cross	3	
+1542213214656	διαγιγνώσκω	to know apart, distinguish; determine, decide (a suit)	4	
+1542213214657	διαδίδωμι	to hand over; distribute	3	
+1542213214660	διαμένω	to continue, persist, last	4	
+1542213214661	διανοέομαι	to intend, be minded to; think, suppose; be disposed	4	
+1542213214663	διατελέω	to continue; persevere, live	4	
+1542213214664	διαφέρω	to carry across; endure, differ, excel	4	
+1542213214665	διαφθείρω	to destroy; corrupt, bribe; seduce; have been ruined, destroyed	3	
+1542213214666	δικάζω	to judge, serve as judge or juror; plead a case, participate in a suit	4	
+1542213214667	δικαστής, οῦ, ὁ	juryman, judge	3	
+1542213214670	δυσσεβής, ές	impious, unholy	4	
+1542213214671	δυστυχής, ές	unlucky, unfortunate	4	
+1542213214673	δύσνους, ουν	ill-disposed, disaffected	4	
+1542213214674	δύω	to enter; get into; sink into the sea, set (of sun, stars)	4	
+1542213214678	εἰ γάρ	would that	4	
+1542213214679	εἴθε	would that	4	
+1542213214681	εἴπερ	if in fact, if indeed; since	4	
+1542213214682	εἶτα	then, next; accordingly, therefore	4	
+1542213214683	εὐγενής, ές	lucky, fortunate	4	
+1542213214689	εὐσεβής, ές	pious, dutiful	2	
+1542213214690	εὐτυχής, ές	well-born; noble, noble-minded	4	
+1542213214699	ζηλόω	to vie with, emulate; admire, praise	4	
+1542213214704	θήρα, ας, ἡ	hunting, the chase	4	
+1542213214708	θρασύς, εῖα, ύ	bold, rash, audacious	4	
+1542213214715	καίτοι	and yet	3	
+1542213214720	καταδύω	to set (of sun); plunge, sink, cause to sink (ships)	3	
+1542213214721	κατατίθημι	to put down; pay down; lay aside, store up; put an end to; put away in a safe place	4	
+1542213214723	κλίνω	to cause to lean, slope, or lie down; lie down, recline	3	
+1542213214726	κομίζω	to take care of; carry, convey; acquire	4	
+1542213214728	κρήνη, ης, ἡ	well, spring	3	
+1542213214730	κτάομαι	to acquire, get; possess, hold, have	4	
+1542213214731	κόπτω	to strike, chop, beat; plunder (land); beat one's breast in mourning	3	
+1542213214740	μάλιστα	most	3	
+1542213214745	μέντοι	however	4	
+1542213214750	μνήμων, ονος, ὁ or ἡ	mindful, remembering, unforgetting	3	
+1542213214754	μόγις	with toil; scarcely, hardly	3	
+1542213214759	νοέω	to perceive; apprehend; think, deem; intend	3	
+1542213214769	οἴομαι	to think, suppose, believe	3	
+1542213214771	οὐσία, ας, ἡ	property; being, essence, reality, substance	4	
+1542213214773	πάνυ	very, exceedingly; altogether	3	
+1542213214777	παρέχω	to furnish, supply, afford	4	
+1542213214778	παραβαίνω	to go beside; overstep, transgress, violate	4	
+1542213214779	παραινέω	to exhort, advise	4	
+1542213214781	παρασκευάζω	to prepare, provide, procure; prepare for oneself, make preparations	4	
+1542213214783	παχύς, εῖα, ύ	thick, stout	4	
+1542213214790	περιοράω	to look over; overlook; permit, look upon while doing nothing	3	
+1542213214793	πλέω	to sail, go by sea	4	
+1542213214796	πλήττω	to strike	3	
+1542213214798	πλοῦς, πλοῦ, ὁ	voyage	3	
+1542213214810	πρέπει	it is fitting, it is becoming, it is seemly	4	
+1542213214814	προδίδωμι	to give in advance; give up, betray, abandon	4	
+1542213214816	προσήκω	to have come; belong to, be related to	4	
+1542213214817	προσίημι	to let come to; admit	4	
+1542213214818	πρόθυμος, η, ον	ready, willing, eager; bearing good will	4	
+1542213214820	πρότερος	former, earlier, previous	4	
+1542213214824	πόνος, ου, ὁ	hard work, toil; suffering	4	
+1542213214825	πότερον	whether	4	
+1542213214826	πῆχυς, εος, ὁ	forearm, arm; cubit	4	
+1542213214828	σαφής, ές	sure, reliable; clear, distinct	3	
+1542213214833	σκοπέω	to look at; examine, consider	4	
+1542213214834	σπένδω	to pour a libation; exchange libations, make a truce, make peace	4	
+1542213214835	σπεύδω	to seek eagerly, strive; rush, hasten	4	
+1542213214837	σπουδάζω	to be serious, be earnest; be eager	5	
+1542213214838	σπουδή, ῆς, ἡ	haste, speed; trouble, effort; regard, esteem, good wheel	4	
+1542213214844	στρατεύω	to carry out a military campaign, wage war; march	4	
+1542213214848	στρατός, οῦ, ὁ	army, host	3	
+1542213214849	συγγιγνώσκω	to agree with; acknowledge; excuse, pardon	4	
+1542213214851	συλλέγω	to gather, bring together, collect	4	
+1542213214852	συμβαίνω	to come together; come to an agreement, come to terms; come to pass, happen	4	
+1542213214853	συμβουλεύω	to advise, counsel, consult with	4	
+1542213214854	συμφέρω	to bring together; be advantageous	3	
+1542213214860	σωφροσύνη, ης, ἡ	prudence; moderation, temperance	4	
+1542213214862	σώφρων, ονος, ὁ or ἡ	of sound mind; prudent; self-controlled; temperate, chaste	4	
+1542213214870	τέρας, ατος, τό	portent, sign, marvel; monster	3	
+1542213214877	τοίνυν	well then; therefore; moreover	4	
+1542213214880	τρέφω	to bring up, rear (children); nourish, maintain; cherish	4	
+1542213214886	τρόπος, ου, ὁ	turn; way, manner, fashion; habits, character	4	
+1542213214893	φθάνω	to anticipate, be ahead of	4	
+1542213214895	φθόνος, ου, ὁ	envy, jealousy	3	
+1542213214899	φράζω	to point out, show; tell, declare, explain	4	
+1542213214903	φόρος, ου, ὁ	payment, tribute	4	
+1542213214905	φύσις, εως, ἡ	origin, birth, growth; nature	3	
+1542213214906	φύω	to produce, make grow; beget; grow, be begotten, be born; be by nature prone to	4	
+1542213214912	χειμών, ῶνος, ὁ	winter; storm, stormy weather	4	
+1542213214914	χράομαι	to use, employ; experience	3	
+1542213214915	χράω	to proclaim an oracle; consult an oracle	4	
+1542213214917	χρηστὀς, ή, όν	useful, serviceable; good, honest, worthy	3	
+1542213214918	χρῆμα, ματος, τό	thing, matter, affair; (pl.) goods, property, money	5	
+1542213214934	ἀνέχω	to hold up; rise up; bear up, endure, put up with	4	
+1542213214941	ἀπάγω	to lead away; arrest, carry off to prison	4	
+1542213214944	ἀποδείκνυμι	to display, make known; appoint, proclaim, create	4	
+1542213214945	ἀποδύω	to strip off (someone's armor or clothes)	4	
+1542213214948	ἀπορέω	to be without means or resources; be at a loss, be in doubt; lack	4	
+1542213214950	ἀριστερός, ά, όν	on the left, left; ominous	4	
+1542213214952	ἀσαφής, ές	indistinct, uncertain	4	
+1542213214953	ἀσεβέω	to live or act impiously; sin against	4	
+1542213214956	ἀσφαλής, ές	steadfast; safe, secure; trustworthy	4	
+1542213214958	ἀφικνέομαι	to arrive at, come to, reach	3	
+1542213214959	ἁθροίζω	to gather together	3	
+1542213214960	ἁλίσκομαι	to be captured, be seized	4	
+1542213214962	ἁρπάζω	to snatch away, carry off; seize	3	
+1542213214963	ἄγαν	very much; too much	4	
+1542213214968	ἄκων, ουσα, ον	unwilling, under constraint	4	
+1542213214972	ἄπλους, ῆ, οῦν	not navigable; (ships) not seaworthy	4	
+1542213214979	ἅλις	sufficiently, enough	4	
+1542213214982	ἅτε	as, as if	4	
+1542213214985	ἆρ οὐ	isn't it the case that … ?	5	
+1542213214986	ἆρα	indeed, truly	4	
+1542213214989	ἐκείνως	in that manner	5	
+1542213214996	ἐνθάδε	here, then	4	
+1542213214997	ἐξαιτέω	to ask for… from; demand for oneself; beg off, appeal for pardon	4	
+1542213214998	ἐξαπατάω	to cheat, deceive, trick	4	
+1542213214999	ἐξελέγχω	to prove; convict, refute	4	
+1542213215000	ἐπίσταμαι	to know how to; know, understand	4	
+1542213215001	ἐπαινέω	to approve, praise	4	
+1542213215006	ἐπιμέλομαι	to take care of, have charge of	4	
+1542213215007	ἐπιορκία, ας, ἡ	false swearing, perjury	4	
+1542213215008	ἐπιστέλλω	to send a message; order, command	6	
+1542213215012	ἐφίημι	to send on, send against; let go, yield; command, give orders; aim at, long for	5	
+1542213215022	ἔμπειρος, α, ον	experienced (in)	4	
+1542213215025	ἔπειτα	then, next; therefore	3	
+1542213215026	ἔρις, ιδος, ἡ	strife, quarrel, rivalry	4	
+1542213215033	ἡττάομαι	to be less, be inferior; be defeated, be defeated by	4	
+1542213215062	ὅμως	nevertheless, all the same	3	
+1542213215067	ὑμέτερος, α, ον	your, yours	4	
+1542213215068	ὑπισχνέομαι	to undertake; promise, profess	4	
+1542213215069	ὑπολαμβάνω	to take up; understand, interpret; assume; reply, rejoin	5	
+1542213215070	ὑπομένω	to await; endure, stand up under	4	
+1542213215073	ὕστερος	latter, later, next	4	
+1542213215074	ὠφελέω	to help, aid	4	
+1542213215091	παρά + gen	from	4	
+1542213215092	ἄφεσις, εως, ἡ	release, pardon, forgiveness	4	
+1542213215096	ἀποκρίνομαι	to answer, reply, continue, begin	4	
+1542213215100	ἐφίστημι	to stand by, appear, attack	4	
+1542213215111	αἴρω	to take, take up, take away, remove	4	
+1542213215117	ὑπέρ + gen	for, in behalf of, about	2	
+1542213215121	ἐπιστρέφω	to turn, return	3	
+1542213215124	καθαρίζω	to make clean, declare clean, cleanse, purify	5	
+1542213215135	μεριμνάω	to have anxiety, be anxious, care for	4	
+1542213215137	κωλύω	to hinder, prevent, forbid, restrain, withhold	4	
+1542213215149	γένος, ους, τό	race, descendant, family, nation, class	3	
+1542213215168	ἀφίημι	to let go, divorce, give up, cancel, forgive, leave, tolerate	4	
+1542213215170	ὅτι	that, so that, because, for	4	
+1542213215178	παρίστημι	to place beside, present, render, approach, stand by	4	
+1542213215187	κατηγορέω	to accuse, bring charges against	4	
+1542213215190	ἄρτι	now, just, at once, immediately	3	
+1542213215202	δέομαι	to ask, beg, pray	3	
+1542213215210	ἀνάγω	to lead up, bring up, restore	3	
+1542213215226	πρός + gen	for	4	
+1542213215239	παρά + dat	beside, with	4	
+1542213215255	σήμερον	today	4	
+1542213215273	παρρησία, ας, ἡ	outspokenness, openness, boldness, confidence	4	
+1542213215277	ἄρα	so, then, consequently, perhaps	4	
+1542213215278	ὑπάρχω	to be, exist	3	
+1542213215287	κράζω	to cry out, call out	4	
+1542213215301	ὑπάγω	to go away, go home, go	4	
+1542213215310	περί + acc	around, near	4	
+1542213215315	παρακαλέω	to call, invite, urge, implore	4	
+1542213215321	αἰτέω	to ask for, demand	4	
+1542213215324	κεῖμαι	to lie, recline, stand, be laid, be appointed, exist, be	4	
+1542213215359	ποῖος, α, ον	of what kind? which? what?	3	
+1542213215370	ἐπιλαμβάνομαι	to take hold of, catch, arrest, be concerned with, help	4	
+1542213215373	καθίστημι	to bring, appoint, ordain, make	4	
+1542213215374	ἀπαγγέλλω	to report, announce, tell, proclaim	3	
+1542213215378	ἐλέγχω	to bring to light, expose, convince, reprove, punish	5	
+1542213215383	δέχομαι	to take, recieve, welcome	3	
+1542213215403	ἐπί + acc	on, to, for, against	4	
+1542213215407	ἀπολύω	to set free, release, divorce	4	
+1542213215413	καθίζω	to cause to sit down, appoint	4	
+1542213215418	περί + gen	about, concerning, for	4	
+1542213215423	ἐπί + gen	on, over, when	4	
+1542213215427	ἀνίστημι	to raise, erect, bring to life, rise, stand up	4	
+1542213215461	πάρειμι	to be present, to have come	4	
+1542213215466	παρατίθημι	to place before, put before	4	
+1542213215473	δέησις, εως, ἡ	prayer, entreaty, petition	4	
+1542213215483	κάθημαι	to sit, sit down, stay	4	
+1542213215488	μισθός, ού, ὁ	pay, wages, reward, punishment	4	
+1542213215489	πότε	when?	4	
+1542213215507	τοιοῦτος, αύτη, οῦτο	of such a kind, such	3	
+1542213215510	ὀφείλω	to owe, be indebted, be obliged	3	
+1542213215513	συνίημι	to understand, comprehend	4	
+1542213215518	καταγγέλλω	to proclaim, make known	4	
+1542213215545	ἄποδίδωμι	to give away, give up, pay, return, reward	4	
+1542213215546	παραγγέλλω	to give orders, command, instruct, direct	4	
+1542213215575	μετά + gen	with, among, against	4	
+1542213215576	καταργέω	to make ineffective, nullify, abolish	4	
+1542213215582	ὥστε	for this reason, therefore, so	3	
+1542213215610	διά + acc	because of	4	
+1542213215621	παραδίδωμι	to entrust, give up, hand over in custody	4	
+1542213215625	τοσοῦτος, αύτη, οῦτο	so great, so large, so many, so far, so much	2	
+1542213215630	ἀναιρέω	to take away, do away with, destroy, kill	4	
+1542213215632	παρά + acc	at, on, more than	4	
+1542213215645	βούλομαι	to wish, want, desire	5	
+1542213215651	ἐπι τίθημι	to lay upon, put upon, inflict upon, add, give, attack	4	
+1542213215654	κλαίνω	to weep, cry	4	
+1542213215656	παραλαμβάνω	to take, take along, recieve, accept	4	
+1542213215659	ἐπιγινώσκω	to know, understand, recognize, learn, notice, know well	4	
+1542213215683	ἀσθενέω	to be weak, powerless, sick, in need	3	
+1542213215684	ἄρχι	until, to, as far as	6	
+1542213215694	πρός + acc	to, for, against, with, at, by	4	
+1542213215706	ἐπιτρέπω	to allow, permit	3	
+1542213215718	παραγίνομαι	to come, arrive, appear, stand by	4	
+1542213215721	ἐπιβάλλω	to throw over, lay on, put on, sew on, beat upon, belong to	4	
+1542213215725	ἐπικαλέω	to call, name	5	
+1542213215736	κοιμάω	to sleep, fall asleep, die	3	
+1542213215745	πρός + dat	at	4	
+1542213215748	ἀπέχω	to recieve in full, am enough, am distant	6	
+1567802816063	τάσσω	to marshal, draw up (troops); arrange; appoint	4	
+1567802816067	δικάζομαι	to participate in a law suit	3	
+1567802816071	αἱρέομαι	to choose	5	
+1567802816078	δεινός, ή, όν	terrible	4	
+1567802816083	ποτε	at any time	4	
+1567802816086	πως	somehow	4	
+1567802816088	γιγνώσκω	to get to know	4	
+1567802816092	ἐπειδή	since	4	
+1567802816098	ἀποδίδομαι	to sell	3	
+1567802816099	ἐφίεμαι	to long for	4	
+1567802816100	ἵσταμαι	to stand up	4	
+1567802816101	ἀφίστημι	to cause to revolt	5	
+1567802816102	ἀφίσταμαι	to revolt from	4	
+1567802816103	ἐφίσταμαι	to be in charge	4	
+1567802816104	καθίσταμαι	to be established	4	
+1567802816106	ἐπιτίθημι	to place on	2	
+1567802816107	ἐπιτίθεμαι	to attack	4	
+1567802816111	συμβαίνει	it happens	4	
+1567802816114	δύομαι	to dive	4	
+1567802816116	καταδύομαι	to set (sun)	4	
+1567802816140	ἀνέχομαι	to endure	4	
+1567802816141	λανθάνω	to escape notice	4	
+1567802816143	φαίνομαι	to seem	4	
+1567802816144	γε	at least	4	
+1567802816156	τάχα	perhaps	3	
+1567802816158	ἡδίων	more pleasant	4	
+1567802816159	ἥδιστος	most pleasant	4	
+1567802816160	θάττων	swifter	3	
+1567802816166	ἀμείνων	better	4	
+1567802816176	ἥκιστος	least	4	
+1567802816188	ἀποκρίνω	to separate	4	
+1567802816189	συμφέρει	it is beneficial	4	
+1567802816195	ποιός, ά, όν	of some sort	4	
+1567802816196	τοιόσδε	of this kind	3	
+1567802816197	οἷος	as, the sort which	4	
+1567802816199	ποσός, ή, όν	of some quantity	4	
+1567802816200	τοσόσδε	this much	4	
+1567802816201	ὁπόσος	however much	3	
+1567802816202	πότερος	which two?	4	
+1567802816203	ὁπότερος, α, ον	whichever of two	4	
+1567802816204	ἐνταῦθα	there	3	
+1567802816206	ποθεν	from some place	4	
+1567802816207	ἐνθένδε	from here	4	
+1567802816210	ὁπόθεν	whence-soever	5	
+1567802816213	ἐκεῖσε	to that place	4	
+1567802816215	ὅποι	whither-soever	4	
+1567802816217	πῃ	in some way	4	
+1567802816219	ταύτῃ	in that way	5	
+1567802816220	ᾗ	in which way	4	
+1567802816225	ἀλλαχόσε	in another direction	4	
+1567802816229	ἄλλοτε	at another time	4	
+1567802816231	ἀμφοτέρωσε	in both directions	5	
+1567802816236	αὐτόσε	in the same direction	4	
+1567802816239	οἴκαδε	to home	3	
+1567802816246	καὶ μήν	and what is more	4	
+1567802816248	μὲν οὖν	now then	4	
+1567802816249	οὐ μὴν ἀλλά	but even so	4	
+1567802816250	οὐ μὴν οὐδέ	nor again	4	
+1567802816254	μέλω	to be a concern	4	
+1567802816256	προσήκει	it is fitting	4	
+1567802816260	νοῦν ἔχειν	to be sensible	4	
+1567802816265	ἔστε	until	4	
+1567802816268	ἄχρι	until	3	
+1567802816271	πότερα	whether	3	
+1567802816278	ἐπιτήδεια, ων, τά	provisions	1	
+1581965511279	κατέχω	to restrain; hold fast to	3	
+1581965511280	καταλύω	to destroy; throw down; demolish	4	
+1581965511287	πλησίον	neighbor	3	
+1581965511288	ταράσσω	to be troubled; be disturbed	4	
+1581965511291	ὡσαύτως	likewise; similarly; same	4	
+1581965511293	ῥύομαι	to rescue; deliver	4	
+1581965511296	διαλογίζομαι	to reason; consider; ponder	4	
+1581965511301	κατέρχομαι	to arrive; come down	3	
+1581965511310	προσδοκάω	to wait for; look for; expect	4	
+1581965511312	συλλαμβάνω	to seize; arrest; apprehend	4	
+1581965511313	συνίστημι	to recommend; commend	5	
+1581965511317	χορτάζω	to be satisfied; fill	3	
+1581965511318	ἀθετέω	to reject; declare invalid	3	
+1581965511319	ἀνακρίνω	to examine; question; judge	5	
+1581965511320	ἐκτείνω	to stretch out; extend	4	
+1581965511321	ἐπιμένω	to remain; stay; continue	4	
+1581965511334	καταλαμβάνω	to grasp; lay hold of	4	
+1581965511342	οἰκουμένη	world; inhabited earth	3	
+1581965511370	κωφός	deaf; mute; unable to speak	4	
+1581965511377	προσδέχομαι	to wait for; look forward to	4	
+1581965511381	φρόνιμος, η, ον	wise; prudent	4	
+1581965511387	ἀναχωρέω	to withdraw; go away	4	
+1581965511388	ἀνθίστημι	to oppose; resist	4	
+1581965511390	ἀτενίζω	to look intently at; stare at	4	
+1581965511400	καταισχύνω	to put to shame; humiliate	4	
+1581965511402	καταρτίζω	to complete; prepare; restore	4	
+1581965511432	βουλή, ῆς, ἡ	plan; purpose	4	
+1581965511439	διάνοια, ας, ἡ	mind; disposition	4	
+1581965511453	παραιτέομαι	to refuse; reject; excuse; beg	4	
+1581965511588	ἀπολαμβάνω	to receive; get back; recover	5	
+1581965511663	φόνος, ου, ὁ	murder	3	
+1581965511668	χρηματίζω	to be called; warn; be named	4	
+1581965511711	διηγέομαι	to describe; tell; relate	3	
+1581965511756	ἀγωνίζομαι	to struggle; fight; strive	4	
+1581965511762	ἀποκαθίστημι	to restore; reestablish	4	
+1581965511794	διατίθημι	to arrange; decree; ordain	3	
+1581965511900	ζημιόω	to forfeit; suffer loss	4	
+1581965512006	ἀσέβεια, ας, ἡ	ungodliness; impiety	4	
+1581965512010	ἐκδέχομαι	to wait for; expect	4	
+1581965512194	ἐμπίπλημι	to satisfy; fill	4	
+1581965512197	ἐντυγχάνω	to appeal; intercede	4	
+1581965512200	ἐπέχω	to hold fast; fix attention on	4	
+1581965512204	ἐπιεικής, ές	gentle; kind; tolerant	4	
+1581965512256	γνήσιος, α, ον	sincere; true; genuine	3	
+1581965512305	καταφέρω	to be brought down; cast against	3	
+1581965512317	κτῆμα, ματος, τό	possession; landed property	3	
+1581965512329	λαγχάνω	to receive; obtain	4	
+1581965512449	ἀποβαίνω	to get out; turn out; lead to	4	
+1581965512481	ἐκδίδωμι	to lease; let out for hire	4	
+1581965512525	ὑποδέχομαι	to receive; welcome	3	
+1581965512766	σπουδαῖος, α, ον	diligent; eager; earnest	4	
+1581965512805	φάσκω	to assert; claim	4	
+1581965512898	ἐξετάζω	to ask; inquire; question	3	
+1581965513194	νομή, ῆς, ἡ	pasture; spreading	4	
+1581965513202	οἰκητήριον	dwelling; habitation	4	
+1581965513204	οἰκτίρω	to have compassion on	3	
+1581965513220	παράκειμαι	to be present	4	
+1581965513430	ψηφίζω	to calculate; count	4	
+1581965513509	ἀπαιτέω	to ask for; demand	4	
+1581965513511	ἀπεκδύομαι	to strip off; take off; disarm	3	
+1581965513568	ἄστοργος, η, ον	hardhearted; unfeeling	4	
+1581965513598	ἐμφανής, ές	visible; known	3	
+1581965513607	ἐνθυμέομαι	to think; consider	4	
+1581965513626	ἐπανέρχομαι	to return	5	
+1581965513636	ἐπιδημέω	to stay; be in town	2	
+1581965513919	διακωλύω	to hinder; prevent	4	
+1581965513921	διαλείπω	to stop; cease	4	
+1581965514077	καθοράω	to discern clearly	3	
+1581965514387	οὐδαμῶς	by no means	4	
+1581965514569	προσαγορεύω	to call; name; designate	3	
+1581965514598	προτρέπω	to encourage; urge (on)	4	
+1581965514772	συντυγχάνω	to meet; come together with	3	
+1581965514808	τεκμήριον, ου, τό	proof; convincing proof	3	
+1581965514825	τιμωρία, ας, ἡ	punishment	4	
+1581965514978	ἀθυμέω	to be discouraged; lose heart	4	
+1581965515123	ἀποβλέπω	to look; pay attention	4	
+1581965515367	ἐπεισέρχομαι	to come upon	4	
+1581965515458	ἔλεγχος, εος, τό	proof; proving	3	
+1590691614299	ἀφέλκω	to drag off	4	
+1590691703600	ἐπικαλέομαι	to call upon	4	
+1590691839731	ὀλοφύρομαι	to lament, to mourn for	4	
+1590798760848	ἀποφαίνω	to reveal, show	4	
+1590799954548	ἀπολέω	to kill, destroy	4	
+1590808178779	ἄναξ, ακτος, ὁ	prince, lord, king	4	
+1590809654658	ὑφαιρέομαι	to steal, take for oneself by stealth	2	
+1590809876326	ἀπέχομαι	to refrain, keep away (from)	4	
+1590809953178	μηχανή, ῆς, ἡ	device, plan	2	
+1590810189272	τοι	then	4	
+1590810221213	ἀμελής, ές	uncaring	3	
+1590810675290	εἴεν	very well then!	4	
+1590811516948	ἀφαιρέομαι	to set up, make, place, put ... in ...	4	
+1590811653773	ψήφισμα, ματος, τό	decree	4	
+1590811941679	αἰσχύνομαι	to be ashamed, feel shame	4	
+1590812000785	εἰκός, ότος, τό	likely, probable, reasonable, fair	3	
+1590812299244	συγγίγνομαι	to be with, have intercourse with	4	
+1590812674206	ἐγγυάω	to engage, promise	4	
+1590812795839	κατεγγυάω	to demant securities from	4	
+1590813298187	ἀποψηφίζομαι	to reject, vote against	4	
+1590813716028	εἰκότως	reasonably, rightly	3	
+1590848518704	ὀλίγωρος, α, ον	contemptuous	4	
+1590849055484	εὐπρεπής, ές	seemingly, proper, becoming	4	
+1590849162332	κλύω	to hear	4	
+1590849435321	ἄθλιος, α, ον	pathetic, miserable, wretched	3	
+1590849973923	ἀλλ' οὖν	well anyway; however that may be	4	
+1590850131198	προθυμέομαι	to be ready, eager	4	
+1590850429805	ἐξόν	it being permitted, possible	4	
+1590850601850	κομίζομαι	to collect	4	
+1590850749366	ἐνέχυρον, ου, τό	security, pledge	4	
+1590850825065	μετέρχομαι	to send for, chase after	2	
+1590850849315	μέτριος, α, ον	fair, moderate, reasonable	4	
+1590850883822	συγχωρέω	to agree with, to agree to; to yield to	4	
+1590851039888	διάκειμαι	to be in ... state, to be in ... mood	4	
+1590852051606	ἀπαγορεύω	to forbid	4	
+1590852128339	οἴχομαι	to be off, depart	4	
+1590852163531	παραγίγνομαι	to be present, turn up at	4	
+1590852373145	ἐκφορεω	to carry off	3	
+1590852693113	ἐπαγγέλλω	to order	4	
+1590852806973	βουλεύομαι	to discuss, take advice	3	
+1590853291860	ἀμύνω	to keep off, withstand	3	
+1590853322573	ἀναλίσκω	to spend, use, kill	4	
+1590853546271	ἀκόσμητος, η, ον	unprovided for	4	
+1590854185167	συμβουλή, ῆς, ἡ	discussion, recommendation	4	
+1590854810057	στερέω	to deprive of	4	
+1590854919169	χωρή, ῆς, ἡ	land	4	
+1590855010396	μετίημι	to allow, let go	4	
+1590855230639	ἆγρη, ης, ἡ	hunt	3	
+1590855269378	πάρεστι	it is possible for ...	4	
+1590856193606	ἱκάνω	to come, come to, come upon	3	
+1606620469757	perhaps	ἴσωςἴσωνἄρατάχα	4	
+1606620469833	here (of motion toward)	δεῦροἐνθάδεὧδε	4	
+1606620469836	home (of motion toward)	οἴκαδε	4	
+1606620469856	through	διά (+ gen.) περί (+ acc.)	4	
+1606620469858	near	ἐγγύς (+ gen.) πρός (+ dat.)πέλαςπερί + acc	5	
+1606620469861	to (with people)	παρά (+ acc.) ὡς (+ acc.)	3	
+1606620469877	contrary to	παρά (+ acc.)	4	
+1606620469961	to show	φαίνω ἀποδείκνυμι	4	
+1606620469972	to receive	δέχομαιἀπολαμβάνωλαγχάνωὑποδέχομαι	4	
+1606620469976	to beat	τύπτωπλήττωπλήσσωδέρωσυγκόπτω	4	
+1606620470017	army	στράτευμα, -ατος, τόστρατιά, ᾶς, ἡ	4	
+1606620470089	to answer	ὑπολαμβάνω ἀποκρίνομαιἀμείβομαι	4	
+1606620470093	to encamp	στρατοπεδεύομαι αὐλίζομαι	4	
+1606620470117	to bring back	κομίζομαι ἀπάνω	4	
+1606620470267	to ascertain	πυνθάνομαι γιγνώσκω	4	
+1606876140031	αὐλίζομαι	to encamp	4	
+1606876140048	δεινὸν ποιέομαι	to complain	3	
+1606876140106	κατασκευάζω	to build	3	
+1606876140203	παρέχει	the opportunity comes	4	
+1606876140228	προσάγομαι	to bring over to one's side	4	
+1606876140329	ἀγείρω	to collect	3	
+1606876140348	ἀντιλαμβάνω	to undertake	3	
+1606876140360	ἀπολυτρόω	to release for ransom	2	
+1542213214601	αἰδώς, ους, ἡ	awe; sense of shame; respect for others	4	
+1542213214602	αἰσθάνομαι	to perceive; sense, understand	4	
+1542213214605	αἰτιάομαι	to accuse, censure; allege as a cause	4	
+1542213214606	αἱρέω	to take, grasp, seize; choose, elect	4	
+1542213214607	αἴτιος, α, ον	responsible; responsible for, cause of	3	
+1542213214614	βάρος, ους, τό	width	5	
+1542213214618	βαρύς, εῖα, ύ	heavy	4	
+1542213214621	βοηθέω	to come to the aid of; come to the rescue	5	
+1542213214622	βουλεύω	to plan, devise; take counsel, deliberate	4	
+1542213214625	βραχύς, εῖα, ύ	short, small	4	
+1542213214627	γέρας, ως, τό	gift of honor, privilege	4	
+1542213214641	γῆρας, αος, τό	old age	4	
+1542213214645	δή	in fact, of course, certainly	5	
+1542213214646	δήπου	surely, doubtless, I presume	3	
+1542213214647	δαπανάω	to spend; consume, use up	3	
+1542213214648	δειλός, ή, όν	cowardly; miserable, wretched	4	
+1542213214655	διαβαίνω	to step across; go over, cross	3	
+1542213214656	διαγιγνώσκω	to know apart, distinguish; determine, decide (a suit)	4	
+1542213214657	διαδίδωμι	to hand over; distribute	3	
+1542213214660	διαμένω	to continue, persist, last	4	
+1542213214661	διανοέομαι	to intend, be minded to; think, suppose; be disposed	4	
+1542213214663	διατελέω	to continue; persevere, live	4	
+1542213214664	διαφέρω	to carry across; endure, differ, excel	4	
+1542213214665	διαφθείρω	to destroy; corrupt, bribe; seduce; have been ruined, destroyed	3	
+1542213214666	δικάζω	to judge, serve as judge or juror; plead a case, participate in a suit	4	
+1542213214667	δικαστής, οῦ, ὁ	juryman, judge	3	
+1542213214670	δυσσεβής, ές	impious, unholy	4	
+1542213214671	δυστυχής, ές	unlucky, unfortunate	4	
+1542213214673	δύσνους, ουν	ill-disposed, disaffected	4	
+1542213214674	δύω	to enter; get into; sink into the sea, set (of sun, stars)	4	
+1542213214678	εἰ γάρ	would that	4	
+1542213214679	εἴθε	would that	4	
+1542213214681	εἴπερ	if in fact, if indeed; since	4	
+1542213214682	εἶτα	then, next; accordingly, therefore	4	
+1542213214683	εὐγενής, ές	lucky, fortunate	4	
+1542213214689	εὐσεβής, ές	pious, dutiful	2	
+1542213214690	εὐτυχής, ές	well-born; noble, noble-minded	4	
+1542213214699	ζηλόω	to vie with, emulate; admire, praise	4	
+1542213214704	θήρα, ας, ἡ	hunting, the chase	4	
+1542213214708	θρασύς, εῖα, ύ	bold, rash, audacious	4	
+1542213214715	καίτοι	and yet	3	
+1542213214720	καταδύω	to set (of sun); plunge, sink, cause to sink (ships)	3	
+1542213214721	κατατίθημι	to put down; pay down; lay aside, store up; put an end to; put away in a safe place	4	
+1542213214723	κλίνω	to cause to lean, slope, or lie down; lie down, recline	3	
+1542213214726	κομίζω	to take care of; carry, convey; acquire	4	
+1542213214728	κρήνη, ης, ἡ	well, spring	3	
+1542213214730	κτάομαι	to acquire, get; possess, hold, have	4	
+1542213214731	κόπτω	to strike, chop, beat; plunder (land); beat one's breast in mourning	3	
+1542213214740	μάλιστα	most	3	
+1542213214745	μέντοι	however	4	
+1542213214750	μνήμων, ονος, ὁ or ἡ	mindful, remembering, unforgetting	3	
+1542213214754	μόγις	with toil; scarcely, hardly	4	
+1542213214759	νοέω	to perceive; apprehend; think, deem; intend	3	
+1542213214769	οἴομαι	to think, suppose, believe	3	
+1542213214771	οὐσία, ας, ἡ	property; being, essence, reality, substance	4	
+1542213214773	πάνυ	very, exceedingly; altogether	3	
+1542213214777	παρέχω	to furnish, supply, afford	4	
+1542213214778	παραβαίνω	to go beside; overstep, transgress, violate	4	
+1542213214779	παραινέω	to exhort, advise	4	
+1542213214781	παρασκευάζω	to prepare, provide, procure; prepare for oneself, make preparations	4	
+1542213214783	παχύς, εῖα, ύ	thick, stout	4	
+1542213214790	περιοράω	to look over; overlook; permit, look upon while doing nothing	3	
+1542213214793	πλέω	to sail, go by sea	4	
+1542213214796	πλήττω	to strike	3	
+1542213214798	πλοῦς, πλοῦ, ὁ	voyage	3	
+1542213214810	πρέπει	it is fitting, it is becoming, it is seemly	4	
+1542213214814	προδίδωμι	to give in advance; give up, betray, abandon	4	
+1542213214816	προσήκω	to have come; belong to, be related to	4	
+1542213214817	προσίημι	to let come to; admit	4	
+1542213214818	πρόθυμος, η, ον	ready, willing, eager; bearing good will	4	
+1542213214820	πρότερος	former, earlier, previous	4	
+1542213214824	πόνος, ου, ὁ	hard work, toil; suffering	4	
+1542213214825	πότερον	whether	4	
+1542213214826	πῆχυς, εος, ὁ	forearm, arm; cubit	4	
+1542213214828	σαφής, ές	sure, reliable; clear, distinct	3	
+1542213214833	σκοπέω	to look at; examine, consider	4	
+1542213214834	σπένδω	to pour a libation; exchange libations, make a truce, make peace	4	
+1542213214835	σπεύδω	to seek eagerly, strive; rush, hasten	4	
+1542213214837	σπουδάζω	to be serious, be earnest; be eager	5	
+1542213214838	σπουδή, ῆς, ἡ	haste, speed; trouble, effort; regard, esteem, good wheel	4	
+1542213214844	στρατεύω	to carry out a military campaign, wage war; march	4	
+1542213214848	στρατός, οῦ, ὁ	army, host	3	
+1542213214849	συγγιγνώσκω	to agree with; acknowledge; excuse, pardon	4	
+1542213214851	συλλέγω	to gather, bring together, collect	4	
+1542213214852	συμβαίνω	to come together; come to an agreement, come to terms; come to pass, happen	4	
+1542213214853	συμβουλεύω	to advise, counsel, consult with	4	
+1542213214854	συμφέρω	to bring together; be advantageous	3	
+1542213214860	σωφροσύνη, ης, ἡ	prudence; moderation, temperance	4	
+1542213214862	σώφρων, ονος, ὁ or ἡ	of sound mind; prudent; self-controlled; temperate, chaste	4	
+1542213214870	τέρας, ατος, τό	portent, sign, marvel; monster	3	
+1542213214877	τοίνυν	well then; therefore; moreover	4	
+1542213214880	τρέφω	to bring up, rear (children); nourish, maintain; cherish	4	
+1542213214886	τρόπος, ου, ὁ	turn; way, manner, fashion; habits, character	4	
+1542213214893	φθάνω	to anticipate, be ahead of	4	
+1542213214895	φθόνος, ου, ὁ	envy, jealousy	3	
+1542213214899	φράζω	to point out, show; tell, declare, explain	4	
+1542213214903	φόρος, ου, ὁ	payment, tribute	4	
+1542213214905	φύσις, εως, ἡ	origin, birth, growth; nature	3	
+1542213214906	φύω	to produce, make grow; beget; grow, be begotten, be born; be by nature prone to	4	
+1542213214912	χειμών, ῶνος, ὁ	winter; storm, stormy weather	4	
+1542213214914	χράομαι	to use, employ; experience	3	
+1542213214915	χράω	to proclaim an oracle; consult an oracle	4	
+1542213214917	χρηστὀς, ή, όν	useful, serviceable; good, honest, worthy	3	
+1542213214918	χρῆμα, ματος, τό	thing, matter, affair; (pl.) goods, property, money	5	
+1542213214934	ἀνέχω	to hold up; rise up; bear up, endure, put up with	4	
+1542213214941	ἀπάγω	to lead away; arrest, carry off to prison	4	
+1542213214944	ἀποδείκνυμι	to display, make known; appoint, proclaim, create	4	
+1542213214945	ἀποδύω	to strip off (someone's armor or clothes)	4	
+1542213214948	ἀπορέω	to be without means or resources; be at a loss, be in doubt; lack	4	
+1542213214950	ἀριστερός, ά, όν	on the left, left; ominous	4	
+1542213214952	ἀσαφής, ές	indistinct, uncertain	4	
+1542213214953	ἀσεβέω	to live or act impiously; sin against	4	
+1542213214956	ἀσφαλής, ές	steadfast; safe, secure; trustworthy	4	
+1542213214958	ἀφικνέομαι	to arrive at, come to, reach	3	
+1542213214959	ἁθροίζω	to gather together	3	
+1542213214960	ἁλίσκομαι	to be captured, be seized	4	
+1542213214962	ἁρπάζω	to snatch away, carry off; seize	3	
+1542213214963	ἄγαν	very much; too much	4	
+1542213214968	ἄκων, ουσα, ον	unwilling, under constraint	4	
+1542213214972	ἄπλους, ῆ, οῦν	not navigable; (ships) not seaworthy	4	
+1542213214979	ἅλις	sufficiently, enough	4	
+1542213214982	ἅτε	as, as if	4	
+1542213214985	ἆρ οὐ	isn't it the case that … ?	5	
+1542213214986	ἆρα	indeed, truly	4	
+1542213214989	ἐκείνως	in that manner	5	
+1542213214996	ἐνθάδε	here, then	4	
+1542213214997	ἐξαιτέω	to ask for… from; demand for oneself; beg off, appeal for pardon	4	
+1542213214998	ἐξαπατάω	to cheat, deceive, trick	4	
+1542213214999	ἐξελέγχω	to prove; convict, refute	4	
+1542213215000	ἐπίσταμαι	to know how to; know, understand	4	
+1542213215001	ἐπαινέω	to approve, praise	4	
+1542213215006	ἐπιμέλομαι	to take care of, have charge of	4	
+1542213215007	ἐπιορκία, ας, ἡ	false swearing, perjury	4	
+1542213215008	ἐπιστέλλω	to send a message; order, command	6	
+1542213215012	ἐφίημι	to send on, send against; let go, yield; command, give orders; aim at, long for	5	
+1542213215022	ἔμπειρος, α, ον	experienced (in)	4	
+1542213215025	ἔπειτα	then, next; therefore	3	
+1542213215026	ἔρις, ιδος, ἡ	strife, quarrel, rivalry	4	
+1542213215033	ἡττάομαι	to be less, be inferior; be defeated, be defeated by	4	
+1542213215062	ὅμως	nevertheless, all the same	3	
+1542213215067	ὑμέτερος, α, ον	your, yours	4	
+1542213215068	ὑπισχνέομαι	to undertake; promise, profess	4	
+1542213215069	ὑπολαμβάνω	to take up; understand, interpret; assume; reply, rejoin	5	
+1542213215070	ὑπομένω	to await; endure, stand up under	4	
+1542213215073	ὕστερος	latter, later, next	4	
+1542213215074	ὠφελέω	to help, aid	4	
+1542213215091	παρά + gen	from	4	
+1542213215092	ἄφεσις, εως, ἡ	release, pardon, forgiveness	4	
+1542213215096	ἀποκρίνομαι	to answer, reply, continue, begin	4	
+1542213215100	ἐφίστημι	to stand by, appear, attack	4	
+1542213215111	αἴρω	to take, take up, take away, remove	4	
+1542213215117	ὑπέρ + gen	for, in behalf of, about	2	
+1542213215121	ἐπιστρέφω	to turn, return	3	
+1542213215124	καθαρίζω	to make clean, declare clean, cleanse, purify	5	
+1542213215135	μεριμνάω	to have anxiety, be anxious, care for	4	
+1542213215137	κωλύω	to hinder, prevent, forbid, restrain, withhold	4	
+1542213215149	γένος, ους, τό	race, descendant, family, nation, class	3	
+1542213215168	ἀφίημι	to let go, divorce, give up, cancel, forgive, leave, tolerate	4	
+1542213215170	ὅτι	that, so that, because, for	4	
+1542213215178	παρίστημι	to place beside, present, render, approach, stand by	4	
+1542213215187	κατηγορέω	to accuse, bring charges against	4	
+1542213215190	ἄρτι	now, just, at once, immediately	3	
+1542213215202	δέομαι	to ask, beg, pray	3	
+1542213215210	ἀνάγω	to lead up, bring up, restore	3	
+1542213215226	πρός + gen	for	4	
+1542213215239	παρά + dat	beside, with	4	
+1542213215255	σήμερον	today	4	
+1542213215273	παρρησία, ας, ἡ	outspokenness, openness, boldness, confidence	4	
+1542213215277	ἄρα	so, then, consequently, perhaps	4	
+1542213215278	ὑπάρχω	to be, exist	3	
+1542213215287	κράζω	to cry out, call out	4	
+1542213215301	ὑπάγω	to go away, go home, go	4	
+1542213215310	περί + acc	around, near	4	
+1542213215315	παρακαλέω	to call, invite, urge, implore	4	
+1542213215321	αἰτέω	to ask for, demand	4	
+1542213215324	κεῖμαι	to lie, recline, stand, be laid, be appointed, exist, be	4	
+1542213215359	ποῖος, α, ον	of what kind? which? what?	3	
+1542213215370	ἐπιλαμβάνομαι	to take hold of, catch, arrest, be concerned with, help	4	
+1542213215373	καθίστημι	to bring, appoint, ordain, make	4	
+1542213215374	ἀπαγγέλλω	to report, announce, tell, proclaim	3	
+1542213215378	ἐλέγχω	to bring to light, expose, convince, reprove, punish	5	
+1542213215383	δέχομαι	to take, recieve, welcome	3	
+1542213215403	ἐπί + acc	on, to, for, against	4	
+1542213215407	ἀπολύω	to set free, release, divorce	4	
+1542213215413	καθίζω	to cause to sit down, appoint	4	
+1542213215418	περί + gen	about, concerning, for	4	
+1542213215423	ἐπί + gen	on, over, when	4	
+1542213215427	ἀνίστημι	to raise, erect, bring to life, rise, stand up	4	
+1542213215461	πάρειμι	to be present, to have come	4	
+1542213215466	παρατίθημι	to place before, put before	4	
+1542213215473	δέησις, εως, ἡ	prayer, entreaty, petition	4	
+1542213215483	κάθημαι	to sit, sit down, stay	4	
+1542213215488	μισθός, ού, ὁ	pay, wages, reward, punishment	4	
+1542213215489	πότε	when?	4	
+1542213215507	τοιοῦτος, αύτη, οῦτο	of such a kind, such	3	
+1542213215510	ὀφείλω	to owe, be indebted, be obliged	3	
+1542213215513	συνίημι	to understand, comprehend	4	
+1542213215518	καταγγέλλω	to proclaim, make known	4	
+1542213215545	ἄποδίδωμι	to give away, give up, pay, return, reward	4	
+1542213215546	παραγγέλλω	to give orders, command, instruct, direct	4	
+1542213215575	μετά + gen	with, among, against	4	
+1542213215576	καταργέω	to make ineffective, nullify, abolish	4	
+1542213215582	ὥστε	for this reason, therefore, so	3	
+1542213215610	διά + acc	because of	4	
+1542213215621	παραδίδωμι	to entrust, give up, hand over in custody	4	
+1542213215625	τοσοῦτος, αύτη, οῦτο	so great, so large, so many, so far, so much	2	
+1542213215630	ἀναιρέω	to take away, do away with, destroy, kill	4	
+1542213215632	παρά + acc	at, on, more than	4	
+1542213215645	βούλομαι	to wish, want, desire	5	
+1542213215651	ἐπι τίθημι	to lay upon, put upon, inflict upon, add, give, attack	4	
+1542213215654	κλαίνω	to weep, cry	4	
+1542213215656	παραλαμβάνω	to take, take along, recieve, accept	4	
+1542213215659	ἐπιγινώσκω	to know, understand, recognize, learn, notice, know well	4	
+1542213215683	ἀσθενέω	to be weak, powerless, sick, in need	3	
+1542213215684	ἄρχι	until, to, as far as	6	
+1542213215694	πρός + acc	to, for, against, with, at, by	4	
+1542213215706	ἐπιτρέπω	to allow, permit	3	
+1542213215718	παραγίνομαι	to come, arrive, appear, stand by	4	
+1542213215721	ἐπιβάλλω	to throw over, lay on, put on, sew on, beat upon, belong to	4	
+1542213215725	ἐπικαλέω	to call, name	5	
+1542213215736	κοιμάω	to sleep, fall asleep, die	3	
+1542213215745	πρός + dat	at	4	
+1542213215748	ἀπέχω	to recieve in full, am enough, am distant	6	
+1567802816063	τάσσω	to marshal, draw up (troops); arrange; appoint	4	
+1567802816067	δικάζομαι	to participate in a law suit	3	
+1567802816071	αἱρέομαι	to choose	5	
+1567802816078	δεινός, ή, όν	terrible	4	
+1567802816083	ποτε	at any time	4	
+1567802816086	πως	somehow	4	
+1567802816088	γιγνώσκω	to get to know	4	
+1567802816092	ἐπειδή	since	4	
+1567802816098	ἀποδίδομαι	to sell	3	
+1567802816099	ἐφίεμαι	to long for	4	
+1567802816100	ἵσταμαι	to stand up	4	
+1567802816101	ἀφίστημι	to cause to revolt	5	
+1567802816102	ἀφίσταμαι	to revolt from	4	
+1567802816103	ἐφίσταμαι	to be in charge	4	
+1567802816104	καθίσταμαι	to be established	4	
+1567802816106	ἐπιτίθημι	to place on	2	
+1567802816107	ἐπιτίθεμαι	to attack	4	
+1567802816111	συμβαίνει	it happens	4	
+1567802816114	δύομαι	to dive	4	
+1567802816116	καταδύομαι	to set (sun)	4	
+1567802816140	ἀνέχομαι	to endure	4	
+1567802816141	λανθάνω	to escape notice	4	
+1567802816143	φαίνομαι	to seem	4	
+1567802816144	γε	at least	4	
+1567802816156	τάχα	perhaps	3	
+1567802816158	ἡδίων	more pleasant	4	
+1567802816159	ἥδιστος	most pleasant	4	
+1567802816160	θάττων	swifter	3	
+1567802816166	ἀμείνων	better	4	
+1567802816176	ἥκιστος	least	4	
+1567802816188	ἀποκρίνω	to separate	4	
+1567802816189	συμφέρει	it is beneficial	4	
+1567802816195	ποιός, ά, όν	of some sort	4	
+1567802816196	τοιόσδε	of this kind	3	
+1567802816197	οἷος	as, the sort which	4	
+1567802816199	ποσός, ή, όν	of some quantity	4	
+1567802816200	τοσόσδε	this much	4	
+1567802816201	ὁπόσος	however much	3	
+1567802816202	πότερος	which two?	4	
+1567802816203	ὁπότερος, α, ον	whichever of two	4	
+1567802816204	ἐνταῦθα	there	3	
+1567802816206	ποθεν	from some place	4	
+1567802816207	ἐνθένδε	from here	4	
+1567802816210	ὁπόθεν	whence-soever	5	
+1567802816213	ἐκεῖσε	to that place	4	
+1567802816215	ὅποι	whither-soever	4	
+1567802816217	πῃ	in some way	4	
+1567802816219	ταύτῃ	in that way	5	
+1567802816220	ᾗ	in which way	4	
+1567802816225	ἀλλαχόσε	in another direction	4	
+1567802816229	ἄλλοτε	at another time	4	
+1567802816231	ἀμφοτέρωσε	in both directions	5	
+1567802816236	αὐτόσε	in the same direction	4	
+1567802816239	οἴκαδε	to home	3	
+1567802816246	καὶ μήν	and what is more	4	
+1567802816248	μὲν οὖν	now then	4	
+1567802816249	οὐ μὴν ἀλλά	but even so	4	
+1567802816250	οὐ μὴν οὐδέ	nor again	4	
+1567802816254	μέλω	to be a concern	4	
+1567802816256	προσήκει	it is fitting	4	
+1567802816260	νοῦν ἔχειν	to be sensible	4	
+1567802816265	ἔστε	until	4	
+1567802816268	ἄχρι	until	3	
+1567802816271	πότερα	whether	3	
+1567802816278	ἐπιτήδεια, ων, τά	provisions	1	
+1581965511279	κατέχω	to restrain; hold fast to	3	
+1581965511280	καταλύω	to destroy; throw down; demolish	4	
+1581965511287	πλησίον	neighbor	3	
+1581965511288	ταράσσω	to be troubled; be disturbed	4	
+1581965511291	ὡσαύτως	likewise; similarly; same	4	
+1581965511293	ῥύομαι	to rescue; deliver	4	
+1581965511296	διαλογίζομαι	to reason; consider; ponder	4	
+1581965511301	κατέρχομαι	to arrive; come down	3	
+1581965511310	προσδοκάω	to wait for; look for; expect	4	
+1581965511312	συλλαμβάνω	to seize; arrest; apprehend	4	
+1581965511313	συνίστημι	to recommend; commend	5	
+1581965511317	χορτάζω	to be satisfied; fill	3	
+1581965511318	ἀθετέω	to reject; declare invalid	3	
+1581965511319	ἀνακρίνω	to examine; question; judge	5	
+1581965511320	ἐκτείνω	to stretch out; extend	4	
+1581965511321	ἐπιμένω	to remain; stay; continue	4	
+1581965511334	καταλαμβάνω	to grasp; lay hold of	4	
+1581965511342	οἰκουμένη	world; inhabited earth	3	
+1581965511370	κωφός	deaf; mute; unable to speak	4	
+1581965511377	προσδέχομαι	to wait for; look forward to	4	
+1581965511381	φρόνιμος, η, ον	wise; prudent	4	
+1581965511387	ἀναχωρέω	to withdraw; go away	4	
+1581965511388	ἀνθίστημι	to oppose; resist	4	
+1581965511390	ἀτενίζω	to look intently at; stare at	4	
+1581965511400	καταισχύνω	to put to shame; humiliate	4	
+1581965511402	καταρτίζω	to complete; prepare; restore	4	
+1581965511432	βουλή, ῆς, ἡ	plan; purpose	4	
+1581965511439	διάνοια, ας, ἡ	mind; disposition	4	
+1581965511453	παραιτέομαι	to refuse; reject; excuse; beg	4	
+1581965511588	ἀπολαμβάνω	to receive; get back; recover	5	
+1581965511663	φόνος, ου, ὁ	murder	3	
+1581965511668	χρηματίζω	to be called; warn; be named	4	
+1581965511711	διηγέομαι	to describe; tell; relate	3	
+1581965511756	ἀγωνίζομαι	to struggle; fight; strive	4	
+1581965511762	ἀποκαθίστημι	to restore; reestablish	4	
+1581965511794	διατίθημι	to arrange; decree; ordain	3	
+1581965511900	ζημιόω	to forfeit; suffer loss	4	
+1581965512006	ἀσέβεια, ας, ἡ	ungodliness; impiety	4	
+1581965512010	ἐκδέχομαι	to wait for; expect	4	
+1581965512194	ἐμπίπλημι	to satisfy; fill	4	
+1581965512197	ἐντυγχάνω	to appeal; intercede	4	
+1581965512200	ἐπέχω	to hold fast; fix attention on	4	
+1581965512204	ἐπιεικής, ές	gentle; kind; tolerant	4	
+1581965512256	γνήσιος, α, ον	sincere; true; genuine	3	
+1581965512305	καταφέρω	to be brought down; cast against	3	
+1581965512317	κτῆμα, ματος, τό	possession; landed property	3	
+1581965512329	λαγχάνω	to receive; obtain	4	
+1581965512449	ἀποβαίνω	to get out; turn out; lead to	4	
+1581965512481	ἐκδίδωμι	to lease; let out for hire	4	
+1581965512525	ὑποδέχομαι	to receive; welcome	3	
+1581965512766	σπουδαῖος, α, ον	diligent; eager; earnest	4	
+1581965512805	φάσκω	to assert; claim	4	
+1581965512898	ἐξετάζω	to ask; inquire; question	3	
+1581965513194	νομή, ῆς, ἡ	pasture; spreading	4	
+1581965513202	οἰκητήριον	dwelling; habitation	4	
+1581965513204	οἰκτίρω	to have compassion on	3	
+1581965513220	παράκειμαι	to be present	4	
+1581965513430	ψηφίζω	to calculate; count	4	
+1581965513509	ἀπαιτέω	to ask for; demand	4	
+1581965513511	ἀπεκδύομαι	to strip off; take off; disarm	3	
+1581965513568	ἄστοργος, η, ον	hardhearted; unfeeling	4	
+1581965513598	ἐμφανής, ές	visible; known	3	
+1581965513607	ἐνθυμέομαι	to think; consider	4	
+1581965513626	ἐπανέρχομαι	to return	5	
+1581965513636	ἐπιδημέω	to stay; be in town	2	
+1581965513919	διακωλύω	to hinder; prevent	4	
+1581965513921	διαλείπω	to stop; cease	4	
+1581965514077	καθοράω	to discern clearly	3	
+1581965514387	οὐδαμῶς	by no means	4	
+1581965514569	προσαγορεύω	to call; name; designate	2	
+1581965514598	προτρέπω	to encourage; urge (on)	4	
+1581965514772	συντυγχάνω	to meet; come together with	3	
+1581965514808	τεκμήριον, ου, τό	proof; convincing proof	3	
+1581965514825	τιμωρία, ας, ἡ	punishment	4	
+1581965514978	ἀθυμέω	to be discouraged; lose heart	4	
+1581965515123	ἀποβλέπω	to look; pay attention	4	
+1581965515367	ἐπεισέρχομαι	to come upon	4	
+1581965515458	ἔλεγχος, εος, τό	proof; proving	3	
+1590691614299	ἀφέλκω	to drag off	4	
+1590691703600	ἐπικαλέομαι	to call upon	4	
+1590691839731	ὀλοφύρομαι	to lament, to mourn for	4	
+1590798760848	ἀποφαίνω	to reveal, show	4	
+1590799954548	ἀπολέω	to kill, destroy	4	
+1590808178779	ἄναξ, ακτος, ὁ	prince, lord, king	4	
+1590809654658	ὑφαιρέομαι	to steal, take for oneself by stealth	2	
+1590809876326	ἀπέχομαι	to refrain, keep away (from)	4	
+1590809953178	μηχανή, ῆς, ἡ	device, plan	2	
+1590810189272	τοι	then	4	
+1590810221213	ἀμελής, ές	uncaring	3	
+1590810675290	εἴεν	very well then!	4	
+1590811516948	ἀφαιρέομαι	to set up, make, place, put ... in ...	3	
+1590811653773	ψήφισμα, ματος, τό	decree	4	
+1590811941679	αἰσχύνομαι	to be ashamed, feel shame	4	
+1590812000785	εἰκός, ότος, τό	likely, probable, reasonable, fair	3	
+1590812299244	συγγίγνομαι	to be with, have intercourse with	4	
+1590812674206	ἐγγυάω	to engage, promise	4	
+1590812795839	κατεγγυάω	to demant securities from	4	
+1590813298187	ἀποψηφίζομαι	to reject, vote against	4	
+1590813716028	εἰκότως	reasonably, rightly	3	
+1590848518704	ὀλίγωρος, α, ον	contemptuous	4	
+1590849055484	εὐπρεπής, ές	seemingly, proper, becoming	4	
+1590849162332	κλύω	to hear	4	
+1590849435321	ἄθλιος, α, ον	pathetic, miserable, wretched	3	
+1590849973923	ἀλλ' οὖν	well anyway; however that may be	4	
+1590850131198	προθυμέομαι	to be ready, eager	4	
+1590850429805	ἐξόν	it being permitted, possible	4	
+1590850601850	κομίζομαι	to collect	4	
+1590850749366	ἐνέχυρον, ου, τό	security, pledge	4	
+1590850825065	μετέρχομαι	to send for, chase after	2	
+1590850849315	μέτριος, α, ον	fair, moderate, reasonable	4	
+1590850883822	συγχωρέω	to agree with, to agree to; to yield to	4	
+1590851039888	διάκειμαι	to be in ... state, to be in ... mood	4	
+1590852051606	ἀπαγορεύω	to forbid	4	
+1590852128339	οἴχομαι	to be off, depart	4	
+1590852163531	παραγίγνομαι	to be present, turn up at	4	
+1590852373145	ἐκφορεω	to carry off	3	
+1590852693113	ἐπαγγέλλω	to order	4	
+1590852806973	βουλεύομαι	to discuss, take advice	3	
+1590853291860	ἀμύνω	to keep off, withstand	3	
+1590853322573	ἀναλίσκω	to spend, use, kill	4	
+1590853546271	ἀκόσμητος, η, ον	unprovided for	4	
+1590854185167	συμβουλή, ῆς, ἡ	discussion, recommendation	4	
+1590854810057	στερέω	to deprive of	4	
+1590854919169	χωρή, ῆς, ἡ	land	4	
+1590855010396	μετίημι	to allow, let go	4	
+1590855230639	ἆγρη, ης, ἡ	hunt	3	
+1590855269378	πάρεστι	it is possible for ...	4	
+1590856193606	ἱκάνω	to come, come to, come upon	3	
+1606620469757	perhaps	ἴσωςἴσωνἄρατάχα	4	
+1606620469833	here (of motion toward)	δεῦροἐνθάδεὧδε	4	
+1606620469836	home (of motion toward)	οἴκαδε	4	
+1606620469856	through	διά (+ gen.) περί (+ acc.)	4	
+1606620469858	near	ἐγγύς (+ gen.) πρός (+ dat.)πέλαςπερί + acc	5	
+1606620469861	to (with people)	παρά (+ acc.) ὡς (+ acc.)	3	
+1606620469877	contrary to	παρά (+ acc.)	4	
+1606620469961	to show	φαίνω ἀποδείκνυμι	4	
+1606620469972	to receive	δέχομαιἀπολαμβάνωλαγχάνωὑποδέχομαι	4	
+1606620469976	to beat	τύπτωπλήττωπλήσσωδέρωσυγκόπτω	4	
+1606620470017	army	στράτευμα, -ατος, τόστρατιά, ᾶς, ἡ	4	
+1606620470089	to answer	ὑπολαμβάνω ἀποκρίνομαιἀμείβομαι	4	
+1606620470093	to encamp	στρατοπεδεύομαι αὐλίζομαι	4	
+1606620470117	to bring back	κομίζομαι ἀπάνω	4	
+1606620470267	to ascertain	πυνθάνομαι γιγνώσκω	4	
+1606876140031	αὐλίζομαι	to encamp	4	
+1606876140048	δεινὸν ποιέομαι	to complain	3	
+1606876140106	κατασκευάζω	to build	3	
+1606876140203	παρέχει	the opportunity comes	4	
+1606876140228	προσάγομαι	to bring over to one's side	4	
+1606876140329	ἀγείρω	to collect	3	
+1606876140348	ἀντιλαμβάνω	to undertake	3	
+1606876140360	ἀπολυτρόω	to release for ransom	2	

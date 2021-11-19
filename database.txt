@@ -1,0 +1,178 @@
+αἰσθάνομαι	to perceive; sense, understand	4
+αἰτιάομαι	to accuse, censure; allege as a cause	4
+αἱρέω	to take, grasp, seize; choose, elect	5
+αἴτιος	responsible; responsible for, cause of	5
+βάρος	width	5
+βαρύς, βαρεῖα, βαρύ	heavy	5
+βοηθέω	to come to the aid of; come to the rescue	5
+γέρας	gift of honor, privilege	5
+διαδίδωμι	to hand over; distribute	4
+διανοέομαι	to intend, be minded to; think, suppose; be disposed	6
+διαφθείρω	to destroy; corrupt, bribe; seduce; have been ruined, destroyed	7
+δικάζω	to judge, serve as judge or juror; plead a case, participate in a suit	5
+δυσσεβής	impious, unholy	4
+δυστυχής	unlucky, unfortunate	4
+δύσνους	ill-disposed, disaffected	6
+εἴθε	would that	3
+εἴπερ	if in fact, if indeed; since	3
+θήρα	hunting, the chase	4
+κλίνω	to cause to lean, slope, or lie down; lie down, recline	5
+κομίζω	to take care of; carry, convey; acquire	5
+κρήνη	well, spring	4
+κόπτω	to strike, chop, beat; plunder (land); beat one's breast in mourning	4
+μόγις	with toil; scarcely, hardly	3
+νοέω	to perceive; apprehend; think, deem; intend	4
+οὐσία	property; being, essence, reality, substance	4
+πρέπει	it is fitting, it is becoming, it is seemly	7
+προδίδωμι	to give in advance; give up, betray, abandon	3
+προσίημι	to let come to; admit	4
+πῆχυς	forearm, arm; cubit	5
+στρατεύω	to carry out a military campaign, wage war; march	4
+συγγιγνώσκω	to agree with; acknowledge; excuse, pardon	5
+τέρας	portent, sign, marvel; monster	3
+φθάνω	to anticipate, be ahead of	5
+χειμών	winter; storm, stormy weather	5
+χράομαι	to use, employ; experience	5
+χράω	to proclaim an oracle; consult an oracle	3
+χρηστὀς, χρηστή, χρηστόν	useful, serviceable; good, honest, worthy	4
+χρῆμα	thing, matter, affair; (pl.) goods, property, money	3
+ἁθροίζω	to gather together	8
+ἄκων, ἄκουσα, ἄκον	unwilling, under constraint	4
+ἆρα	indeed, truly	4
+ἐξελέγχω	to prove; convict, refute	5
+ἐπίσταμαι	to know how to; know, understand	6
+ἐπιμέλομαι	to take care of, have charge of	5
+ἐπιστέλλω	to send a message; order, command	5
+ἔμπειρος	experienced (in)	3
+ἔπειτα	then, next; therefore	6
+παρά + gen	from	6
+ἄφεσις	release, pardon, forgiveness	5
+ἐφίστημι	to stand by, appear, attack	6
+αἴρω	to take, take up, take away, remove	5
+ὑπέρ + gen	for, in behalf of, about	6
+ἐπιστρέφω	to turn, return	4
+ὅτι	that, so that, because, for	2
+κατηγορέω	to accuse, bring charges against	5
+ἄρτι	now, just, at once, immediately	6
+πρός + gen	for	3
+παρά + dat	beside, with	5
+κράζω	to cry out, call out	5
+ὑπάγω	to go away, go home, go	6
+αἰτέω	to ask for, demand	6
+κεῖμαι	to lie, recline, stand, be laid, be appointed, exist, be	6
+ποῖος	of what kind? which? what?	5
+ἐπιλαμβάνομαι	to take hold of, catch, arrest, be concerned with, help	6
+καθίστημι	to bring, apoint, ordain, make	9
+ἐλέγχω	to bring to light, expose, convince, reprove, punish	6
+ἀπολύω	to set free, release, divorce	3
+ἀνίστημι	to raise, erect, bring to life, rise, stand up	7
+μισθός	pay, wages, reward, punishment	7
+πότε	when?	4
+τοιοῦτος	of such a kind, such	7
+καταγγέλλω	to proclaim, make known	6
+ἄποδίδωμι	to give away, give up, pay, return, reward	5
+παραγγέλλω	to give orders, command, instruct, direct	4
+καταργέω	to make ineffective, nullify, abolish	8
+ὥστε	for this reason, therefore, so	3
+διά + acc	because of	5
+τοσοῦτος	so great, so large, so many, so far, so much	5
+ἀναιρέω	to take away, do away with, destroy, kill	4
+παρά + acc	at, on, more than	1
+ἐπι τίθημι	to lay upon, put upon, inflict upon, add, give, attack	4
+παραλαμβάνω	to take, take along, recieve, accept	6
+ἄρχι	until, to, as far as	7
+παραγίνομαι	to come, arrive, appear, stand by	4
+τάσσω	to marshal, draw up (troops); arrange; appoint	4
+δικάζομαι	to participate in a law suit	5
+δεινός	terrible	6
+ἐπειδή	since	4
+ἐφίσταμαι	to be in charge	4
+καθίσταμαι	to be established	6
+γε	at least	4
+ἀμείνων	better	5
+τοιόσδε	of this kind	6
+ὁπόθεν	whence-soever	4
+αὐτόσε	in the same direction	6
+καὶ μήν	and what is more	4
+μέλω	to be a concern	5
+προσήκει	it is fitting	5
+ἔστε	until	3
+ἐπιτήδεια	provisions	4
+κατέχω	restrain; hold fast to	7
+ταράσσω	be troubled; be disturbed	6
+συλλαμβάνω	seize; arrest; apprehend	6
+χορτάζω	be satisfied; fill	5
+ἀθετέω	reject; declare invalid	5
+ἀνακρίνω	examine; question; judge	2
+καταλαμβάνω	grasp; lay hold of	6
+καταρτίζω	complete; prepare; restore	4
+βουλεύω	to plan, devise; take counsel, deliberate	7
+δή	in fact, of course, certainly	7
+διαφέρω	to carry across; endure, differ, excel	5
+παρασκευάζω	to prepare, provide, procure; prepare for oneself, make preparations	4
+πόνος	hard work, toil; suffering	6
+ἁρπάζω	to snatch away, carry off; seize	5
+παρίστημι	to place beside, present, render, approach, stand by	6
+ἐπί + acc	on, to, for	3
+ἐπί + gen	on, over, when	5
+παραδίδωμι	to entrust, give up, hand over in custody	5
+ἀτενίζω	look intently at; stare at	5
+συμφέρω	to bring together; be advantageous	4
+φράζω	to point out, show; tell, declare, explain	4
+περί + gen	about, concerning, for	4
+ἀποδίδομαι	to sell	5
+διαλογίζομαι	reason; consider; ponder	6
+ἀναχωρέω	withdraw; go away	4
+ἄστοργος	hardhearted; unfeeling	5
+πλοῦς	voyage	3
+σκοπέω	to look at; examine, consider	4
+τρέφω	to bring up, rear (children); nourish, maintain; cherish	5
+ἐφίημι	to send on, send against; let go, yield; command, give orders; aim at, long for	5
+ὕστερος	latter, later, next	4
+περί + acc	around, near	4
+ὑπομένω	to await; endure, stand up under	4
+ἀποκρίνομαι	to answer, reply, continue, begin	5
+παρατίθημι	to place before, put before	4
+ἐπιτρέπω	to allow, permit	4
+ἡδίων	more pleasant	5
+ἀλλαχόσε	in another direction	5
+ἀφέλκω	to drag off	4
+πλήττω	to strike	5
+σπουδάζω	to be serious, be earnest; be eager	4
+θάττων	swifter	4
+πῃ	in some way	5
+αἴτιος, α, ον	responsible; responsible for, cause of	5
+βάρος, ους, τό	width	5
+γέρας, ως, τό	gift of honor, privilege	5
+δυσσεβής, ές	impious, unholy	5
+δυστυχής, ές	unlucky, unfortunate	5
+δύσνους, ουν	ill-disposed, disaffected	5
+θήρα, ας, ἡ	hunting, the chase	5
+κρήνη, ης, ἡ	well, spring	5
+οὐσία, ας, ἡ	property; being, essence, reality, substance	5
+πλοῦς, πλοῦ, ὁ	voyage	5
+πόνος, ου, ὁ	hard work, toil; suffering	5
+πῆχυς, εος, ὁ	forearm, arm; cubit	5
+τέρας, ατος, τό	portent, sign, marvel; monster	5
+χειμών, ῶνος, ὁ	winter; storm, stormy weather	5
+χρηστὀς, ή, όν	useful, serviceable; good, honest, worthy	5
+χρῆμα, ματος, τό	thing, matter, affair; (pl.) goods, property, money	4
+ἄκων, ουσα, ον	unwilling, under constraint	5
+ἔμπειρος, α, ον	experienced (in)	5
+ἄφεσις, εως, ἡ	release, pardon, forgiveness	5
+ποῖος, α, ον	of what kind? which? what?	5
+μισθός, ά, όν	pay, wages, reward, punishment	5
+τοιοῦτος, αύτη, οῦτο	of such a kind, such	5
+τοσοῦτος, αύτη, οῦτο	so great, so large, so many, so far, so much	5
+κλαίνω	to weep, cry	5
+δεινός, ή, όν	terrible	5
+ἀφίσταμαι	to revolt from	5
+φαίνομαι	to seem	5
+πότερος	which two?	5
+ἄλλοτε	at another time	5
+ἐπιτήδεια, ων, τά	provisions	5
+ὡσαύτως	likewise; similarly; same	5
+πλέω	to sail, go by sea	5
+ἡττάομαι	to be less, be inferior; be defeated, be defeated by	5
+φρόνιμος, η, ον	wise; prudent	5
+ἄστοργος, η, ον	hardhearted; unfeeling	5

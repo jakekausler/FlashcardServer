@@ -1,0 +1,398 @@
+1542213214601	αἰδώς, ους, ἡ	awe; sense of shame; respect for others	2	rec1606688402.mp3
+1542213214602	αἰσθάνομαι	to perceive; sense, understand	2	rec1608571513.mp3
+1542213214605	αἰτιάομαι	to accuse, censure; allege as a cause	2	rec1611513937.mp3
+1542213214606	αἱρέω	to take, grasp, seize; choose, elect	2	rec1606688465.mp3
+1542213214607	αἴτιος, α, ον	responsible; responsible for, cause of	2	rec1609610716.mp3
+1542213214614	βάρος, ους, τό	width	2	rec1609609337.mp3
+1542213214618	βαρύς, εῖα, ύ	heavy	2	rec1606688713.mp3
+1542213214621	βοηθέω	to come to the aid of; come to the rescue	2	rec1611515351.mp3
+1542213214622	βουλεύω	to plan, devise; take counsel, deliberate	2	rec1606688745.mp3
+1542213214627	γέρας, ως, τό	gift of honor, privilege	2	rec1606688845.mp3
+1542213214645	δή	in fact, of course, certainly	2	rec1606689109.mp3
+1542213214646	δήπου	surely, doubtless, I presume	2	rec1608401453.mp3
+1542213214655	διαβαίνω	to step across; go over, cross	2	rec1606689203.mp3
+1542213214657	διαδίδωμι	to hand over; distribute	2	rec1606689221.mp3
+1542213214660	διαμένω	to continue, persist, last	2	rec1606689236.mp3
+1542213214661	διανοέομαι	to intend, be minded to; think, suppose; be disposed	2	rec1609609644.mp3
+1542213214664	διαφέρω	to carry across; endure, differ, excel	2	rec1606689278.mp3
+1542213214665	διαφθείρω	to destroy; corrupt, bribe; seduce; have been ruined, destroyed	2	rec1606689285.mp3
+1542213214666	δικάζω	to judge, serve as judge or juror; plead a case, participate in a suit	2	rec1606689290.mp3
+1542213214667	δικαστής, οῦ, ὁ	juryman, judge	2	rec1606689296.mp3
+1542213214670	δυσσεβής, ές	impious, unholy	2	rec1606689329.mp3
+1542213214671	δυστυχής, ές	unlucky, unfortunate	2	rec1606689337.mp3
+1542213214673	δύσνους, ουν	ill-disposed, disaffected	2	rec1606689373.mp3
+1542213214678	εἰ γάρ	would that	2	rec1606689416.mp3
+1542213214679	εἴθε	would that	2	rec1606689441.mp3
+1542213214681	εἴπερ	if in fact, if indeed; since	2	rec1606689454.mp3
+1542213214682	εἶτα	then, next; accordingly, therefore	2	rec1606689458.mp3
+1542213214683	εὐγενής, ές	lucky, fortunate	2	rec1606689464.mp3
+1542213214689	εὐσεβής, ές	pious, dutiful	2	rec1606689538.mp3
+1542213214690	εὐτυχής, ές	well-born; noble, noble-minded	2	rec1606928138.mp3
+1542213214699	ζηλόω	to vie with, emulate; admire, praise	2	rec1609609946.mp3
+1542213214704	θήρα, ας, ἡ	hunting, the chase	2	rec1606689863.mp3
+1542213214708	θρασύς, εῖα, ύ	bold, rash, audacious	2	rec1606689926.mp3
+1542213214715	καίτοι	and yet	2	rec1606690001.mp3
+1542213214723	κλίνω	to cause to lean, slope, or lie down; lie down, recline	2	rec1606690071.mp3
+1542213214726	κομίζω	to take care of; carry, convey; acquire	2	rec1611512808.mp3
+1542213214728	κρήνη, ης, ἡ	well, spring	2	rec1606690151.mp3
+1542213214730	κτάομαι	to acquire, get; possess, hold, have	2	rec1611512765.mp3
+1542213214731	κόπτω	to strike, chop, beat; plunder (land); beat one's breast in mourning	2	rec1606690165.mp3
+1542213214740	μάλιστα	most	2	rec1606690250.mp3
+1542213214745	μέντοι	however	2	rec1606690280.mp3
+1542213214750	μνήμων, ονος, ὁ or ἡ	mindful, remembering, unforgetting	2	rec1608571628.mp3
+1542213214754	μόγις	with toil; scarcely, hardly	2	rec1608572814.mp3
+1542213214759	νοέω	to perceive; apprehend; think, deem; intend	2	rec1607554600.mp3
+1542213214771	οὐσία, ας, ἡ	property; being, essence, reality, substance	2	rec1607556253.mp3
+1542213214773	πάνυ	very, exceedingly; altogether	2	rec1606931914.mp3
+1542213214778	παραβαίνω	to go beside; overstep, transgress, violate	2	rec1606932582.mp3
+1542213214779	παραινέω	to exhort, advise	2	rec1606690611.mp3
+1542213214781	παρασκευάζω	to prepare, provide, procure; prepare for oneself, make preparations	2	rec1606931921.mp3
+1542213214783	παχύς, εῖα, ύ	thick, stout	2	rec1606691634.mp3
+1542213214790	περιοράω	to look over; overlook; permit, look upon while doing nothing	2	rec1606690616.mp3
+1542213214793	πλέω	to sail, go by sea	2	rec1607441043.mp3
+1542213214796	πλήττω	to strike	2	rec1609610815.mp3
+1542213214798	πλοῦς, πλοῦ, ὁ	voyage	2	rec1606692456.mp3
+1542213214810	πρέπει	it is fitting, it is becoming, it is seemly	2	rec1609872842.mp3
+1542213214814	προδίδωμι	to give in advance; give up, betray, abandon	2	rec1608576313.mp3
+1542213214817	προσίημι	to let come to; admit	2	rec1608571568.mp3
+1542213214818	πρόθυμος, η, ον	ready, willing, eager; bearing good will	2	rec1609610137.mp3
+1542213214820	πρότερος	former, earlier, previous	2	rec1608571553.mp3
+1542213214824	πόνος, ου, ὁ	hard work, toil; suffering	2	rec1608571586.mp3
+1542213214825	πότερον	whether	2	rec1608402446.mp3
+1542213214826	πῆχυς, εος, ὁ	forearm, arm; cubit	2	rec1608160948.mp3
+1542213214828	σαφής, ές	sure, reliable; clear, distinct	2	rec1606692463.mp3
+1542213214833	σκοπέω	to look at; examine, consider	2	rec1608572336.mp3
+1542213214834	σπένδω	to pour a libation; exchange libations, make a truce, make peace	2	rec1607441061.mp3
+1542213214835	σπεύδω	to seek eagerly, strive; rush, hasten	2	rec1606690691.mp3
+1542213214837	σπουδάζω	to be serious, be earnest; be eager	2	rec1606692473.mp3
+1542213214838	σπουδή, ῆς, ἡ	haste, speed; trouble, effort; regard, esteem, good wheel	2	rec1606693315.mp3
+1542213214844	στρατεύω	to carry out a military campaign, wage war; march	2	rec1606691684.mp3
+1542213214849	συγγιγνώσκω	to agree with; acknowledge; excuse, pardon	2	rec1606690702.mp3
+1542213214852	συμβαίνω	to come together; come to an agreement, come to terms; come to pass, happen	2	rec1606690707.mp3
+1542213214853	συμβουλεύω	to advise, counsel, consult with	2	rec1606693979.mp3
+1542213214854	συμφέρω	to bring together; be advantageous	2	rec1609610076.mp3
+1542213214860	σωφροσύνη, ης, ἡ	prudence; moderation, temperance	2	rec1609609517.mp3
+1542213214862	σώφρων, ονος, ὁ or ἡ	of sound mind; prudent; self-controlled; temperate, chaste	2	rec1608401478.mp3
+1542213214870	τέρας, ατος, τό	portent, sign, marvel; monster	2	rec1609609742.mp3
+1542213214877	τοίνυν	well then; therefore; moreover	2	rec1606692481.mp3
+1542213214880	τρέφω	to bring up, rear (children); nourish, maintain; cherish	2	rec1606932611.mp3
+1542213214886	τρόπος, ου, ὁ	turn; way, manner, fashion; habits, character	2	rec1607556273.mp3
+1542213214893	φθάνω	to anticipate, be ahead of	2	rec1606690719.mp3
+1542213214899	φράζω	to point out, show; tell, declare, explain	2	rec1606692493.mp3
+1542213214903	φόρος, ου, ὁ	payment, tribute	2	rec1608571457.mp3
+1542213214905	φύσις, εως, ἡ	origin, birth, growth; nature	2	rec1606690734.mp3
+1542213214906	φύω	to produce, make grow; beget; grow, be begotten, be born; be by nature prone to	2	rec1607101707.mp3
+1542213214912	χειμών, ῶνος, ὁ	winter; storm, stormy weather	2	rec1612035587.mp3
+1542213214914	χράομαι	to use, employ; experience	2	rec1607441082.mp3
+1542213214915	χράω	to proclaim an oracle; consult an oracle	2	rec1608161317.mp3
+1542213214917	χρηστὀς, ή, όν	useful, serviceable; good, honest, worthy	2	rec1612035226.mp3
+1542213214918	χρῆμα, ματος, τό	thing, matter, affair; (pl.) goods, property, money	2	rec1608575148.mp3
+1542213214934	ἀνέχω	to hold up; rise up; bear up, endure, put up with	2	rec1606693369.mp3
+1542213214941	ἀπάγω	to lead away; arrest, carry off to prison	2	rec1607554119.mp3
+1542213214948	ἀπορέω	to be without means or resources; be at a loss, be in doubt; lack	2	rec1609609123.mp3
+1542213214950	ἀριστερός, ά, όν	on the left, left; ominous	2	rec1609610683.mp3
+1542213214952	ἀσαφής, ές	indistinct, uncertain	2	rec1606692605.mp3
+1542213214956	ἀσφαλής, ές	steadfast; safe, secure; trustworthy	2	rec1606930582.mp3
+1542213214958	ἀφικνέομαι	to arrive at, come to, reach	2	rec1606690745.mp3
+1542213214959	ἁθροίζω	to gather together	2	rec1607101711.mp3
+1542213214960	ἁλίσκομαι	to be captured, be seized	2	rec1609609656.mp3
+1542213214962	ἁρπάζω	to snatch away, carry off; seize	2	rec1606690751.mp3
+1542213214963	ἄγαν	very much; too much	2	rec1606690762.mp3
+1542213214968	ἄκων, ουσα, ον	unwilling, under constraint	2	rec1608575762.mp3
+1542213214979	ἅλις	sufficiently, enough	2	rec1606691794.mp3
+1542213214986	ἆρα	indeed, truly	2	rec1607441659.mp3
+1542213214989	ἐκείνως	in that manner	2	rec1606691807.mp3
+1542213214996	ἐνθάδε	here, then	2	rec1606693414.mp3
+1542213214997	ἐξαιτέω	to ask for… from; demand for oneself; beg off, appeal for pardon	2	rec1606930616.mp3
+1542213214998	ἐξαπατάω	to cheat, deceive, trick	2	rec1606691813.mp3
+1542213214999	ἐξελέγχω	to prove; convict, refute	2	rec1606932632.mp3
+1542213215000	ἐπίσταμαι	to know how to; know, understand	2	rec1606692619.mp3
+1542213215001	ἐπαινέω	to approve, praise	2	rec1606691818.mp3
+1542213215006	ἐπιμέλομαι	to take care of, have charge of	2	rec1607555403.mp3
+1542213215007	ἐπιορκία, ας, ἡ	false swearing, perjury	2	rec1607441671.mp3
+1542213215008	ἐπιστέλλω	to send a message; order, command	2	rec1606693421.mp3
+1542213215012	ἐφίημι	to send on, send against; let go, yield; command, give orders; aim at, long for	2	rec1606932639.mp3
+1542213215022	ἔμπειρος, α, ον	experienced (in)	2	rec1608656277.mp3
+1542213215025	ἔπειτα	then, next; therefore	2	rec1606930621.mp3
+1542213215026	ἔρις, ιδος, ἡ	strife, quarrel, rivalry	2	rec1607555445.mp3
+1542213215033	ἡττάομαι	to be less, be inferior; be defeated, be defeated by	2	rec1606932651.mp3
+1542213215068	ὑπισχνέομαι	to undertake; promise, profess	2	rec1606690794.mp3
+1542213215069	ὑπολαμβάνω	to take up; understand, interpret; assume; reply, rejoin	2	rec1611513985.mp3
+1542213215070	ὑπομένω	to await; endure, stand up under	2	rec1608350468.mp3
+1542213215073	ὕστερος	latter, later, next	2	rec1606932003.mp3
+1542213215074	ὠφελέω	to help, aid	2	rec1606693435.mp3
+1542213215091	παρά + gen	from	2	rec1607555152.mp3
+1542213215092	ἄφεσις, εως, ἡ	release, pardon, forgiveness	2	rec1606930715.mp3
+1542213215096	ἀποκρίνομαι	to answer, reply, continue, begin	2	rec1608656136.mp3
+1542213215100	ἐφίστημι	to stand by, appear, attack	2	rec1606692676.mp3
+1542213215111	αἴρω	to take, take up, take away, remove	2	rec1612032122.mp3
+1542213215117	ὑπέρ + gen	for, in behalf of, about	2	rec1607101750.mp3
+1542213215121	ἐπιστρέφω	to turn, return	2	rec1612039331.mp3
+1542213215135	μεριμνάω	to have anxiety, be anxious, care for	2	rec1606692682.mp3
+1542213215137	κωλύω	to hinder, prevent, forbid, restrain, withhold	2	rec1608572309.mp3
+1542213215149	γένος, ους, τό	race, descendant, family, nation, class	2	rec1608401927.mp3
+1542213215170	ὅτι	that, so that, because, for	2	rec1608404279.mp3
+1542213215178	παρίστημι	to place beside, present, render, approach, stand by	2	rec1606691862.mp3
+1542213215187	κατηγορέω	to accuse, bring charges against	2	rec1608572284.mp3
+1542213215190	ἄρτι	now, just, at once, immediately	2	rec1606691867.mp3
+1542213215202	δέομαι	to ask, beg, pray	2	rec1607555170.mp3
+1542213215226	πρός + gen	for	2	rec1608405151.mp3
+1542213215239	παρά + dat	beside, with	2	rec1608658881.mp3
+1542213215255	σήμερον	today	2	rec1607555174.mp3
+1542213215273	παρρησία, ας, ἡ	outspokenness, openness, boldness, confidence	2	rec1607556332.mp3
+1542213215277	ἄρα	so, then, consequently, perhaps	2	rec1606692693.mp3
+1542213215287	κράζω	to cry out, call out	2	rec1606691881.mp3
+1542213215301	ὑπάγω	to go away, go home, go	2	rec1608402771.mp3
+1542213215310	περί + acc	around, near	2	rec1606691901.mp3
+1542213215315	παρακαλέω	to call, invite, urge, implore	2	rec1606690807.mp3
+1542213215321	αἰτέω	to ask for, demand	2	rec1609611054.mp3
+1542213215324	κεῖμαι	to lie, recline, stand, be laid, be appointed, exist, be	2	rec1606693460.mp3
+1542213215359	ποῖος, α, ον	of what kind? which? what?	2	rec1606932678.mp3
+1542213215370	ἐπιλαμβάνομαι	to take hold of, catch, arrest, be concerned with, help	2	rec1609609127.mp3
+1542213215373	καθίστημι	to bring, appoint, ordain, make	2	rec1606693468.mp3
+1542213215374	ἀπαγγέλλω	to report, announce, tell, proclaim	2	rec1606932023.mp3
+1542213215378	ἐλέγχω	to bring to light, expose, convince, reprove, punish	2	rec1608160995.mp3
+1542213215383	δέχομαι	to take, recieve, welcome	2	rec1608403919.mp3
+1542213215403	ἐπί + acc	on, to, for, against	2	rec1607101782.mp3
+1542213215407	ἀπολύω	to set free, release, divorce	2	rec1609611178.mp3
+1542213215418	περί + gen	about, concerning, for	2	rec1608665706.mp3
+1542213215423	ἐπί + gen	on, over, when	2	rec1606931276.mp3
+1542213215427	ἀνίστημι	to raise, erect, bring to life, rise, stand up	2	rec1606932683.mp3
+1542213215466	παρατίθημι	to place before, put before	2	rec1606693480.mp3
+1542213215473	δέησις, εως, ἡ	prayer, entreaty, petition	2	rec1606932044.mp3
+1542213215488	μισθός, ού, ὁ	pay, wages, reward, punishment	2	rec1611514039.mp3
+1542213215489	πότε	when?	2	rec1608401435.mp3
+1542213215507	τοιοῦτος, αύτη, οῦτο	of such a kind, such	2	rec1611514234.mp3
+1542213215513	συνίημι	to understand, comprehend	2	rec1606690826.mp3
+1542213215518	καταγγέλλω	to proclaim, make known	2	rec1607101797.mp3
+1542213215545	ἄποδίδωμι	to give away, give up, pay, return, reward	2	rec1607555459.mp3
+1542213215546	παραγγέλλω	to give orders, command, instruct, direct	2	rec1606932058.mp3
+1542213215576	καταργέω	to make ineffective, nullify, abolish	2	rec1606692707.mp3
+1542213215582	ὥστε	for this reason, therefore, so	2	rec1606931287.mp3
+1542213215610	διά + acc	because of	2	rec1608576354.mp3
+1542213215621	παραδίδωμι	to entrust, give up, hand over in custody	2	rec1606932062.mp3
+1542213215625	τοσοῦτος, αύτη, οῦτο	so great, so large, so many, so far, so much	2	rec1608571613.mp3
+1542213215630	ἀναιρέω	to take away, do away with, destroy, kill	2	rec1606692748.mp3
+1542213215632	παρά + acc	at, on, more than	2	rec1606692754.mp3
+1542213215651	ἐπι τίθημι	to lay upon, put upon, inflict upon, add, give, attack	2	rec1606693505.mp3
+1542213215654	κλαίνω	to weep, cry	2	rec1608350235.mp3
+1542213215656	παραλαμβάνω	to take, take along, recieve, accept	2	rec1606693513.mp3
+1542213215659	ἐπιγινώσκω	to know, understand, recognize, learn, notice, know well	2	rec1607100555.mp3
+1542213215683	ἀσθενέω	to be weak, powerless, sick, in need	2	rec1606690851.mp3
+1542213215684	ἄρχι	until, to, as far as	2	rec1608404308.mp3
+1542213215706	ἐπιτρέπω	to allow, permit	2	rec1606691923.mp3
+1542213215718	παραγίνομαι	to come, arrive, appear, stand by	2	rec1609609232.mp3
+1542213215721	ἐπιβάλλω	to throw over, lay on, put on, sew on, beat upon, belong to	2	rec1606690861.mp3
+1542213215725	ἐπικαλέω	to call, name	2	rec1606693518.mp3
+1542213215736	κοιμάω	to sleep, fall asleep, die	2	rec1606690867.mp3
+1542213215748	ἀπέχω	to recieve in full, am enough, am distant	2	rec1606692759.mp3
+1567802816063	τάσσω	to marshal, draw up (troops); arrange; appoint	2	rec1606692763.mp3
+1567802816067	δικάζομαι	to participate in a law suit	2	rec1606690873.mp3
+1567802816071	αἱρέομαι	to choose	2	rec1608161426.mp3
+1567802816078	δεινός, ή, όν	terrible	2	rec1608658869.mp3
+1567802816083	ποτε	at any time	2	rec1608571376.mp3
+1567802816086	πως	somehow	2	rec1609609761.mp3
+1567802816088	γιγνώσκω	to get to know	2	rec1606691941.mp3
+1567802816092	ἐπειδή	since	2	rec1608403927.mp3
+1567802816098	ἀποδίδομαι	to sell	2	rec1608160560.mp3
+1567802816100	ἵσταμαι	to stand up	2	rec1607101825.mp3
+1567802816101	ἀφίστημι	to cause to revolt	2	rec1606693522.mp3
+1567802816102	ἀφίσταμαι	to revolt from	2	rec1606690888.mp3
+1567802816103	ἐφίσταμαι	to be in charge	2	rec1607556011.mp3
+1567802816104	καθίσταμαι	to be established	2	rec1606693527.mp3
+1567802816106	ἐπιτίθημι	to place on	2	rec1607101831.mp3
+1567802816107	ἐπιτίθεμαι	to attack	2	rec1606692775.mp3
+1567802816111	συμβαίνει	it happens	2	rec1606691945.mp3
+1567802816114	δύομαι	to dive	2	rec1608242424.mp3
+1567802816141	λανθάνω	to escape notice	2	rec1606690905.mp3
+1567802816143	φαίνομαι	to seem	2	rec1607100690.mp3
+1567802816144	γε	at least	2	rec1606692780.mp3
+1567802816158	ἡδίων	more pleasant	2	rec1606693545.mp3
+1567802816160	θάττων	swifter	2	rec1609610635.mp3
+1567802816166	ἀμείνων	better	2	rec1611514883.mp3
+1567802816188	ἀποκρίνω	to separate	2	rec1609609136.mp3
+1567802816189	συμφέρει	it is beneficial	2	rec1606690917.mp3
+1567802816195	ποιός, ά, όν	of some sort	2	rec1608349919.mp3
+1567802816196	τοιόσδε	of this kind	2	rec1608571467.mp3
+1567802816197	οἷος	as, the sort which	2	rec1608655888.mp3
+1567802816200	τοσόσδε	this much	2	rec1608401321.mp3
+1567802816201	ὁπόσος	however much	2	rec1607556020.mp3
+1567802816202	πότερος	which two?	2	rec1609609237.mp3
+1567802816203	ὁπότερος, α, ον	whichever of two	2	rec1608401949.mp3
+1567802816204	ἐνταῦθα	there	2	rec1606690922.mp3
+1567802816206	ποθεν	from some place	2	rec1608571900.mp3
+1567802816207	ἐνθένδε	from here	2	rec1607441191.mp3
+1567802816210	ὁπόθεν	whence-soever	2	rec1608349931.mp3
+1567802816213	ἐκεῖσε	to that place	2	rec1607554870.mp3
+1567802816215	ὅποι	whither-soever	2	rec1608571638.mp3
+1567802816217	πῃ	in some way	2	rec1606690935.mp3
+1567802816219	ταύτῃ	in that way	2	rec1606692792.mp3
+1567802816220	ᾗ	in which way	2	rec1607100708.mp3
+1567802816225	ἀλλαχόσε	in another direction	2	rec1609609242.mp3
+1567802816229	ἄλλοτε	at another time	2	rec1608401317.mp3
+1567802816231	ἀμφοτέρωσε	in both directions	2	rec1609609768.mp3
+1567802816236	αὐτόσε	in the same direction	2	rec1609609351.mp3
+1567802816239	οἴκαδε	to home	2	rec1606691997.mp3
+1567802816246	καὶ μήν	and what is more	2	rec1606693582.mp3
+1567802816248	μὲν οὖν	now then	2	rec1606690972.mp3
+1567802816249	οὐ μὴν ἀλλά	but even so	2	rec1607101854.mp3
+1567802816254	μέλω	to be a concern	2	rec1607441200.mp3
+1567802816256	προσήκει	it is fitting	2	rec1608572360.mp3
+1567802816265	ἔστε	until	2	rec1607101862.mp3
+1567802816268	ἄχρι	until	2	rec1607556031.mp3
+1567802816278	ἐπιτήδεια, ων, τά	provisions	2	rec1608242472.mp3
+1581965511279	κατέχω	to restrain; hold fast to	2	rec1606690982.mp3
+1581965511287	πλησίον	neighbor	2	rec1609609659.mp3
+1581965511288	ταράσσω	to be troubled; be disturbed	2	rec1606692026.mp3
+1581965511291	ὡσαύτως	likewise; similarly; same	2	rec1607554892.mp3
+1581965511293	ῥύομαι	to rescue; deliver	2	rec1608401342.mp3
+1581965511296	διαλογίζομαι	to reason; consider; ponder	2	rec1609609961.mp3
+1581965511310	προσδοκάω	to wait for; look for; expect	2	rec1608658891.mp3
+1581965511312	συλλαμβάνω	to seize; arrest; apprehend	2	rec1606690987.mp3
+1581965511313	συνίστημι	to recommend; commend	2	rec1609611158.mp3
+1581965511317	χορτάζω	to be satisfied; fill	2	rec1609609672.mp3
+1581965511318	ἀθετέω	to reject; declare invalid	2	rec1607555192.mp3
+1581965511319	ἀνακρίνω	to examine; question; judge	2	rec1606692047.mp3
+1581965511320	ἐκτείνω	to stretch out; extend	2	rec1606932121.mp3
+1581965511334	καταλαμβάνω	to grasp; lay hold of	2	rec1606693677.mp3
+1581965511370	κωφός	deaf; mute; unable to speak	2	rec1607556050.mp3
+1581965511377	προσδέχομαι	to wait for; look forward to	2	rec1608401358.mp3
+1581965511381	φρόνιμος, η, ον	wise; prudent	2	rec1609609150.mp3
+1581965511387	ἀναχωρέω	to withdraw; go away	2	rec1607554900.mp3
+1581965511388	ἀνθίστημι	to oppose; resist	2	rec1606692835.mp3
+1581965511390	ἀτενίζω	to look intently at; stare at	2	rec1607555512.mp3
+1581965511400	καταισχύνω	to put to shame; humiliate	2	rec1607101890.mp3
+1581965511402	καταρτίζω	to complete; prepare; restore	2	rec1608160626.mp3
+1581965511439	διάνοια, ας, ἡ	mind; disposition	2	rec1606692108.mp3
+1581965511453	παραιτέομαι	to refuse; reject; excuse; beg	2	rec1609611174.mp3
+1581965511588	ἀπολαμβάνω	to receive; get back; recover	2	rec1609609156.mp3
+1581965511668	χρηματίζω	to be called; warn; be named	2	rec1607101895.mp3
+1581965511711	διηγέομαι	to describe; tell; relate	2	rec1606691019.mp3
+1581965511756	ἀγωνίζομαι	to struggle; fight; strive	2	rec1606692855.mp3
+1581965511794	διατίθημι	to arrange; decree; ordain	2	rec1606692116.mp3
+1581965512006	ἀσέβεια, ας, ἡ	ungodliness; impiety	2	rec1606693701.mp3
+1581965512010	ἐκδέχομαι	to wait for; expect	2	rec1606691057.mp3
+1581965512197	ἐντυγχάνω	to appeal; intercede	2	rec1606691078.mp3
+1581965512200	ἐπέχω	to hold fast; fix attention on	2	rec1606691084.mp3
+1581965512204	ἐπιεικής, ές	gentle; kind; tolerant	2	rec1606693718.mp3
+1581965512256	γνήσιος, α, ον	sincere; true; genuine	2	rec1611514605.mp3
+1581965512329	λαγχάνω	to receive; obtain	2	rec1606691108.mp3
+1581965512449	ἀποβαίνω	to get out; turn out; lead to	2	rec1611514192.mp3
+1581965512525	ὑποδέχομαι	to receive; welcome	2	rec1609609772.mp3
+1581965512766	σπουδαῖος, α, ον	diligent; eager; earnest	2	rec1608571852.mp3
+1581965512805	φάσκω	to assert; claim	2	rec1606692157.mp3
+1581965512898	ἐξετάζω	to ask; inquire; question	2	rec1606932171.mp3
+1581965513194	νομή, ῆς, ἡ	pasture; spreading	2	rec1609609677.mp3
+1581965513202	οἰκητήριον	dwelling; habitation	2	rec1606692881.mp3
+1581965513204	οἰκτίρω	to have compassion on	2	rec1606932183.mp3
+1581965513509	ἀπαιτέω	to ask for; demand	2	rec1607100897.mp3
+1581965513568	ἄστοργος, η, ον	hardhearted; unfeeling	2	rec1608656132.mp3
+1581965513598	ἐμφανής, ές	visible; known	2	rec1606932465.mp3
+1581965513607	ἐνθυμέομαι	to think; consider	2	rec1606693740.mp3
+1581965513636	ἐπιδημέω	to stay; be in town	2	rec1606693759.mp3
+1581965513921	διαλείπω	to stop; cease	2	rec1606692198.mp3
+1581965514077	καθοράω	to discern clearly	2	rec1606692211.mp3
+1581965514387	οὐδαμῶς	by no means	2	rec1606692994.mp3
+1581965514569	προσαγορεύω	to call; name; designate	2	rec1609609379.mp3
+1581965514598	προτρέπω	to encourage; urge (on)	2	rec1608160650.mp3
+1581965514772	συντυγχάνω	to meet; come together with	2	rec1606932198.mp3
+1581965514808	τεκμήριον, ου, τό	proof; convincing proof	2	rec1606932210.mp3
+1581965515123	ἀποβλέπω	to look; pay attention	2	rec1609609254.mp3
+1581965515458	ἔλεγχος, εος, τό	proof; proving	2	rec1609609894.mp3
+1590691614299	ἀφέλκω	to drag off	2	rec1606691190.mp3
+1590691703600	ἐπικαλέομαι	to call upon	2	rec1606932216.mp3
+1590798760848	ἀποφαίνω	to reveal, show	2	rec1606693828.mp3
+1590809654658	ὑφαιρέομαι	to steal, take for oneself by stealth	2	rec1608571905.mp3
+1590809876326	ἀπέχομαι	to refrain, keep away (from)	2	rec1606693030.mp3
+1590809953178	μηχανή, ῆς, ἡ	device, plan	2	rec1606691207.mp3
+1590810221213	ἀμελής, ές	uncaring	2	rec1609609806.mp3
+1590811516948	ἀφαιρέομαι	to set up, make, place, put ... in ...	2	rec1607101974.mp3
+1590812000785	εἰκός, ότος, τό	likely, probable, reasonable, fair	2	rec1609609577.mp3
+1590812299244	συγγίγνομαι	to be with, have intercourse with	2	rec1609610433.mp3
+1590812674206	ἐγγυάω	to engage, promise	2	rec1607554938.mp3
+1590813716028	εἰκότως	reasonably, rightly	2	rec1609610518.mp3
+1590849055484	εὐπρεπής, ές	seemingly, proper, becoming	2	rec1606693857.mp3
+1590850131198	προθυμέομαι	to be ready, eager	2	rec1612030977.mp3
+1590850849315	μέτριος, α, ον	fair, moderate, reasonable	2	rec1608571559.mp3
+1590850883822	συγχωρέω	to agree with, to agree to; to yield to	2	rec1608571306.mp3
+1590852128339	οἴχομαι	to be off, depart	2	rec1608571403.mp3
+1590852163531	παραγίγνομαι	to be present, turn up at	2	rec1608655884.mp3
+1590852806973	βουλεύομαι	to discuss, take advice	2	rec1606693125.mp3
+1590853322573	ἀναλίσκω	to spend, use, kill	2	rec1609611154.mp3
+1542213214851	συλλέγω	to gather, bring together, collect	2	rec1608573166.mp3
+1590852051606	ἀπαγορεύω	to forbid	2	rec1606691540.mp3
+1590856193606	ἱκάνω	to come, come to, come upon	2	rec1609609904.mp3
+1581965513919	διακωλύω	to hinder; prevent	2	rec1606932190.mp3
+1542213214647	δαπανάω	to spend; consume, use up	2	rec1606689118.mp3
+1542213214816	προσήκω	to have come; belong to, be related to	2	rec1608160937.mp3
+1542213214945	ἀποδύω	to strip off (someone's armor or clothes)	2	rec1611513966.mp3
+1567802816159	ἥδιστος	most pleasant	2	rec1609609347.mp3
+1581965511432	βουλή, ῆς, ἡ	plan; purpose	2	rec1607555524.mp3
+1581965512317	κτῆμα, ματος, τό	possession; landed property	2	rec1609609248.mp3
+1590854810057	στερέω	to deprive of	2	rec1606693169.mp3
+1542213215575	μετά + gen	with, among, against	2	rec1607554189.mp3
+1590850825065	μετέρχομαι	to send for, chase after	2	rec1606932264.mp3
+1542213214769	οἴομαι	to think, suppose, believe	2	rec1609609118.mp3
+1542213215124	καθαρίζω	to make clean, declare clean, cleanse, purify	2	rec1606693439.mp3
+1542213215413	καθίζω	to cause to sit down, appoint	2	rec1608405936.mp3
+1590810675290	εἴεν	very well then!	2	rec1607441397.mp3
+1567802816199	ποσός, ή, όν	of some quantity	2	rec1609609993.mp3
+1581965511301	κατέρχομαι	to arrive; come down	2	rec1607554896.mp3
+1590810189272	τοι	then	2	rec1607555228.mp3
+1590848518704	ὀλίγωρος, α, ον	contemptuous	2	rec1609610027.mp3
+1590849973923	ἀλλ' οὖν	well anyway; however that may be	2	rec1607555706.mp3
+1590854185167	συμβουλή, ῆς, ἡ	discussion, recommendation	2	rec1606691579.mp3
+1542213214674	δύω	to enter; get into; sink into the sea, set (of sun, stars)	2	rec1608656049.mp3
+1542213214953	ἀσεβέω	to live or act impiously; sin against	2	rec1609614769.mp3
+1581965512305	καταφέρω	to be brought down; cast against	2	rec1606692125.mp3
+1581965514825	τιμωρία, ας, ἡ	punishment	2	rec1606693788.mp3
+1581965514978	ἀθυμέω	to be discouraged; lose heart	2	rec1606692999.mp3
+1590813298187	ἀποψηφίζομαι	to reject, vote against	2	rec1609609409.mp3
+1542213214625	βραχύς, εῖα, ύ	short, small	2	rec1606688815.mp3
+1542213214641	γῆρας, αος, τό	old age	2	rec1609609219.mp3
+1542213214648	δειλός, ή, όν	cowardly; miserable, wretched	2	rec1608571411.mp3
+1542213214848	στρατός, οῦ, ὁ	army, host	2	rec1608572143.mp3
+1542213214944	ἀποδείκνυμι	to display, make known; appoint, proclaim, create	2	rec1608572247.mp3
+1542213215062	ὅμως	nevertheless, all the same	2	rec1607554131.mp3
+1542213215067	ὑμέτερος, α, ον	your, yours	2	rec1609609954.mp3
+1542213215168	ἀφίημι	to let go, divorce, give up, cancel, forgive, leave, tolerate	2	rec1607440109.mp3
+1567802816271	πότερα	whether	2	rec1611514240.mp3
+1581965512194	ἐμπίπλημι	to satisfy; fill	2	rec1606691063.mp3
+1581965513430	ψηφίζω	to calculate; count	2	rec1606691159.mp3
+1590799954548	ἀπολέω	to kill, destroy	2	rec1607554934.mp3
+1590849162332	κλύω	to hear	2	rec1607441405.mp3
+1590855269378	πάρεστι	it is possible for ...	2	rec1606691600.mp3
+1567802816260	νοῦν ἔχειν	to be sensible	2	rec1606690976.mp3
+1581965511321	ἐπιμένω	to remain; stay; continue	2	rec1606932126.mp3
+1590691839731	ὀλοφύρομαι	to lament, to mourn for	2	rec1608572212.mp3
+1581965511280	καταλύω	to destroy; throw down; demolish	2	rec1606692799.mp3
+1542213215483	κάθημαι	to sit, sit down, stay	2	rec1608664763.mp3
+1542213214721	κατατίθημι	to put down; pay down; lay aside, store up; put an end to; put away in a safe place	2	rec1606690061.mp3
+1542213214972	ἄπλους, ῆ, οῦν	not navigable; (ships) not seaworthy	2	rec1609609540.mp3
+1542213214982	ἅτε	as, as if	2	rec1608664737.mp3
+1581965511663	φόνος, ου, ὁ	murder	2	rec1608160641.mp3
+1581965511762	ἀποκαθίστημι	to restore; reestablish	2	rec1607554245.mp3
+1581965512481	ἐκδίδωμι	to lease; let out for hire	2	rec1607440228.mp3
+1581965513220	παράκειμαι	to be present	2	rec1609609374.mp3
+1581965513511	ἀπεκδύομαι	to strip off; take off; disarm	2	rec1606693734.mp3
+1581965513626	ἐπανέρχομαι	to return	2	rec1606932470.mp3
+1590850601850	κομίζομαι	to collect	2	rec1609614714.mp3
+1590852373145	ἐκφορεω	to carry off	2	rec1606692298.mp3
+1542213215694	πρός + acc	to, for, against, with, at, by	2	rec1609614731.mp3
+1567802816176	ἥκιστος	least	2	rec1608658967.mp3
+1542213215510	ὀφείλω	to owe, be indebted, be obliged	2	rec1608242277.mp3
+1567802816250	οὐ μὴν οὐδέ	nor again	2	rec1607100712.mp3
+1590851039888	διάκειμαι	to be in ... state, to be in ... mood	2	rec1606693880.mp3
+1542213214663	διατελέω	to continue; persevere, live	2	rec1606689274.mp3
+1542213215278	ὑπάρχω	to be, exist	2	rec1607101772.mp3
+1567802816140	ἀνέχομαι	to endure	2	rec1609609132.mp3
+1567802816156	τάχα	perhaps	2	rec1606932079.mp3
+1590854919169	χωρή, ῆς, ἡ	land	2	rec1606691587.mp3
+1606876140329	ἀγείρω	to collect	2	
+1606876140348	ἀντιλαμβάνω	to undertake	2	rec1612029902.mp3
+1606876140360	ἀπολυτρόω	to release for ransom	2	rec1612029848.mp3
+1542213214777	παρέχω	to furnish, supply, afford	2	rec1606693304.mp3
+1542213215461	πάρειμι	to be present, to have come	2	rec1606692702.mp3
+1590811941679	αἰσχύνομαι	to be ashamed, feel shame	2	rec1607440438.mp3
+1590855230639	ἆγρη, ης, ἡ	hunt	2	rec1606692371.mp3
+1606876140228	προσάγομαι	to bring over to one's side	2	rec1612029411.mp3
